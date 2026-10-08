@@ -35,7 +35,7 @@ from datetime import timedelta
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DEFAULT_CN = r"E:\BaiduNetdiskDownload\民航飞行员英语900句.txt"
-GAP_SEC = 2.5      # 句间静音（成品实际值）
+GAP_SEC = 2.74     # 句间静音（scripts/rebuild_timeline.py 实测中位值，勿手改回 2.5）
 TAIL = 0.2         # 句末多留的时间
 MIN_SHOW = 1.2     # 最短停留（短句不至于一闪而过）
 
@@ -105,14 +105,17 @@ def read_timestamps(path):
         if len(parts) < 3:
             continue
         idx, t = int(parts[0]), parts[1]
-        h, m, s = [int(x) for x in t.split(":")]
-        rows.append((idx, h * 3600 + m * 60 + s, parts[2]))
+        h, m, s = t.split(":")
+        # 秒字段允许小数（音频实测时间轴是亚秒级精度），老文件的整秒仍兼容
+        rows.append((idx, int(h) * 3600 + int(m) * 60 + float(s), parts[2]))
     return rows
 
 
 def probe_duration(mp3):
     """用 ffprobe 拿成品总时长（秒）。失败返回 None。"""
-    ff = os.path.join(ROOT, ".cache", "ffmpeg.exe")
+    # ⚠️ 必须是 ffprobe，不是 ffmpeg（ffmpeg 不认 -show_entries，会静默失败 →
+    #    末句结束时间走到 st+6.0 的兜底，超出音频末尾）
+    ff = os.path.join(ROOT, ".cache", "ffprobe.exe")
     for exe in (ff, "ffprobe", "ffprobe.exe"):
         try:
             out = subprocess.run([exe, "-v", "error", "-show_entries", "format=duration",

@@ -1304,12 +1304,17 @@ def _stage_a_chain():
     ) % (L_BRANCH_GAIN,)
 
 
-def prepared_cuts(durations, idxs, gap_raw, pieces):
+def prepared_cuts(durations, idxs, gap_raw, pieces, total_real=None):
     """在句间静音的正中间下刀，返回**成品时间轴**（已变速）上的切点。
 
     为什么挑静音中点：句子之间本来就插了 gap_raw 秒静音，在那里分段，
     处理完拼回去不会有任何瞬态；同时每段前后多喂 PIECE_PAD 秒再裁掉，
     用来吸收 aecho(57ms)+adelay(11ms)+FIR 群延迟。
+
+    ⚠️ total_real 必填（真实素材长度，用 _probe_sec 量 prepared wav 得来）。
+    累加 durations 估算出来的总长与真实素材必然有偏差（本项目实测差 1.1%，
+    ≈70 s），而最后一段是渲染到 cuts[-1] 就收尾的——少算多少就会**整段丢掉
+    末尾多少句**，且全程不报错。曾因此静默丢失最后 10 句（第 891~900 句）。
     """
     if pieces <= 1:
         return None
@@ -1319,6 +1324,13 @@ def prepared_cuts(durations, idxs, gap_raw, pieces):
         marks.append((t + gap_raw * 0.5) / TEMPO)
         t += gap_raw
     total = t / TEMPO
+    if total_real and total > 0:
+        if abs(total_real - total) > 1.0:
+            print("  切点校正：估算总长 %.3f s → 采用真实素材长度 %.3f s（差 %+.3f s）"
+                  % (total, total_real, total_real - total))
+        scale = total_real / total
+        marks = [m * scale for m in marks]
+        total = total_real
     cuts = [0.0]
     for k in range(1, pieces):
         want = total * k / float(pieces)
@@ -1361,6 +1373,17 @@ def ensure_prepared_src(mono_src, tag):
     return prep
 
 
+def _probe_sec(path):
+    r = subprocess.run([FFMPEG.replace("ffmpeg.exe", "ffprobe.exe"), "-v", "error",
+                        "-show_entries", "format=duration",
+                        "-of", "default=noprint_wrappers=1:nokey=1", path],
+                       capture_output=True, text=True)
+    try:
+        return float((r.stdout or "").strip().splitlines()[0])
+    except Exception:                       # noqa
+        return 0.0
+
+
 def render_stage_a(mono_src, tag, cuts, workers=N_PIECES, pad=PIECE_PAD, force=False):
     """并行渲染与声像无关的那一半。
 
@@ -1373,6 +1396,22 @@ def render_stage_a(mono_src, tag, cuts, workers=N_PIECES, pad=PIECE_PAD, force=F
     base, meta_p, merged = stage_paths(tag)
     os.makedirs(base, exist_ok=True)
     prep_path = ensure_prepared_src(mono_src, tag)
+
+    # ⚠️ 关键修正：cuts 是拿「clip 时长 + 标称 gap」累加出来的**估算值**，
+    # 与真实素材长度必然有偏差（本项目实测末尾少算 70 s）。因为末段渲染到
+    # cuts[-1] 就收尾，少算多少就会**整段丢掉末尾多少内容**——
+    # 曾因此静默丢失最后 10 句（第 891~900 句），成品比应有长度短 70 s。
+    # 所以必须以真实素材长度为准：先整体等比缩放，再把末点钉死。
+    if cuts is not None and len(cuts) >= 2:
+        real = _probe_sec(prep_path)
+        est = cuts[-1]
+        if real > 0 and abs(real - est) > 0.05:
+            scale = real / est
+            cuts = [c * scale for c in cuts]
+            cuts[-1] = real
+            print("  切点校正：估算总长 %.3f s → 真实 %.3f s（%+0.3f s，已等比缩放并钉住末点）"
+                  % (est, real, real - est))
+
     stamp = {"src": os.path.basename(mono_src),
              "mtime": round(os.path.getmtime(mono_src), 3),
              "size": os.path.getsize(mono_src),
@@ -1421,6 +1460,17 @@ def render_stage_a(mono_src, tag, cuts, workers=N_PIECES, pad=PIECE_PAD, force=F
     subprocess.run([FFMPEG, "-hide_banner", "-v", "error", "-y",
                     "-f", "concat", "-safe", "0", "-i", lst,
                     "-c:a", "pcm_s16le", merged], check=True, capture_output=True, text=True)
+
+    # 长度校验：分段渲染最容易出的错就是接缝处少内容，且不会报错。
+    # 素材与成品必须等长（分段不改变长度），否则直接中止，别把残缺品当成品。
+    want, got = _probe_sec(prep_path), _probe_sec(merged)
+    if want > 0 and abs(got - want) > 0.5:
+        raise SystemExit(
+            "❌ Stage A 长度对不上：素材 %.3f s，分段后 %.3f s（差 %+.3f s）。\n"
+            "   这说明切点算错了，末尾内容被截断。请检查 prepared_cuts() / cuts[-1]。"
+            % (want, got, got - want))
+    print("  Stage A 长度校验：素材 %.3f s → 分段后 %.3f s（差 %+.3f s，OK）"
+          % (want, got, got - want))
     json.dump(stamp, open(meta_p, "w", encoding="utf-8"))
     return time.time() - t0, True
 
@@ -1506,9 +1556,14 @@ def render_fast(mono_src, out_mp3, idxs, gap_raw, ctl_path=None, tag="asmr",
     所以改 dip / balance 时它会被完全跳过。
     """
     ctl_path = ctl_path or os.path.join(CACHE, "pan_ctl.raw")
+    # ⚠️ 总长必须取真实素材长度，不能用累加估算（详见 prepared_cuts 的注释）
+    prep_path = ensure_prepared_src(mono_src, tag)
+    total = _probe_sec(prep_path)
+    if total <= 0:
+        raise SystemExit("无法读取素材长度：%s" % prep_path)
     durs = clip_durations(idxs)
-    cuts = prepared_cuts(durs, idxs, gap_raw, workers if workers > 1 else 1)
-    total = sum(durs[i] + gap_raw for i in idxs) / TEMPO
+    cuts = prepared_cuts(durs, idxs, gap_raw, workers if workers > 1 else 1,
+                         total_real=total)
     build_pan_track(total, ctl_path)
     if cuts is None:
         raise ValueError("N_PIECES 必须 > 1 才能分段并行")
@@ -1516,6 +1571,11 @@ def render_fast(mono_src, out_mp3, idxs, gap_raw, ctl_path=None, tag="asmr",
     _b, _meta, merged = stage_paths(tag)
     dt_b = render_stage_b(merged, out_mp3, ctl_path, tag, remeasure=remeasure,
                           use_loudnorm=use_loudnorm)
+    # 兜底校验：成品必须和素材一样长。少一秒都说明末尾被截断了，宁可报错也别交付。
+    got = _probe_sec(out_mp3)
+    if abs(got - total) > 1.0:
+        print("⚠️⚠️ 成品时长 %.3f s 与素材 %.3f s 相差 %+.3f s —— 末尾可能被截断！"
+              % (got, total, got - total))
     if not quiet:
         print("Stage A（EQ/回声/分路，%d 段并行）：%s  %.0f s"
               % (workers, "重算" if did else "命中缓存（跳过）", dt_a))

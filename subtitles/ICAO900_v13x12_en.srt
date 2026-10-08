@@ -3,3597 +3,3597 @@
 Maintaining FL310.
 
 2
-00:00:05,000 --> 00:00:07,700
+00:00:05,240 --> 00:00:07,960
 Descending to FL290.
 
 3
-00:00:10,000 --> 00:00:12,700
+00:00:10,500 --> 00:00:12,970
 Reaching FL190.
 
 4
-00:00:15,000 --> 00:00:18,700
+00:00:15,510 --> 00:00:19,240
 Maintaining FL90 over WXJ.
 
 5
-00:00:21,000 --> 00:00:25,700
+00:00:21,780 --> 00:00:26,590
 Continue descent to 3000 feet， QNH 1012.
 
 6
-00:00:28,000 --> 00:00:32,700
+00:00:29,130 --> 00:00:33,120
 Passing FL180 for FL310.
 
 7
-00:00:35,000 --> 00:00:38,700
+00:00:35,660 --> 00:00:39,580
 Cleared to enter controlled airspace not above FL100.
 
 8
-00:00:41,000 --> 00:00:42,700
+00:00:42,120 --> 00:00:43,900
 Request further climb.
 
 9
-00:00:45,000 --> 00:00:49,700
+00:00:46,440 --> 00:00:51,190
 Fly direct to SHA, not below FL180.
 
 10
-00:00:52,000 --> 00:00:56,700
+00:00:53,730 --> 00:00:57,750
 After passing CGO descend to FL80.
 
 11
-00:00:59,000 --> 00:01:01,700
+00:01:00,290 --> 00:01:03,230
 Stop descent at FL210.
 
 12
-00:01:04,000 --> 00:01:08,700
+00:01:05,770 --> 00:01:10,230
 Descending to reach FL150 by WXI.
 
 13
-00:01:11,000 --> 00:01:16,700
+00:01:12,770 --> 00:01:17,550
 Unable to reach FL150 by ZHO due performance.
 
 14
-00:01:19,000 --> 00:01:22,700
+00:01:20,090 --> 00:01:24,080
 Climbing to FL290, to be level by 55.
 
 15
-00:01:25,000 --> 00:01:27,700
+00:01:26,620 --> 00:01:29,220
 Descend at 2000 feet per minute.
 
 16
-00:01:30,000 --> 00:01:33,700
+00:01:31,760 --> 00:01:34,940
 Climbing at 1000 feet per minute or greater.
 
 17
-00:01:36,000 --> 00:01:40,700
+00:01:37,480 --> 00:01:42,820
 When ready, descend to FL210, level at PLT.
 
 18
-00:01:43,000 --> 00:01:50,700
+00:01:45,360 --> 00:01:52,680
 Right heading 330, descending to 3000 feet, cleared for ILS approach Runway 36R.
 
 19
-00:01:53,000 --> 00:01:57,700
+00:01:55,220 --> 00:01:59,290
 Descend to 3000 feet, information P is current.
 
 20
-00:02:00,000 --> 00:02:02,700
+00:02:01,830 --> 00:02:05,050
 Expedite descent to FL180.
 
 21
-00:02:05,000 --> 00:02:08,700
+00:02:07,590 --> 00:02:10,740
 Expedite climb to FL190.
 
 22
-00:02:11,000 --> 00:02:15,700
+00:02:13,280 --> 00:02:18,230
 Climb to FL280 expedite until passing FL180.
 
 23
-00:02:18,000 --> 00:02:20,700
+00:02:20,770 --> 00:02:23,280
 Unable to expedite climb due weight.
 
 24
-00:02:23,000 --> 00:02:27,700
+00:02:25,820 --> 00:02:29,670
 Descending immediately to FL200 due traffic.
 
 25
-00:02:30,000 --> 00:02:35,700
+00:02:32,210 --> 00:02:38,420
 When ready, climb to FL280, report leaving FL200.
 
 26
-00:02:38,000 --> 00:02:42,700
+00:02:40,960 --> 00:02:45,340
 Leaving FL200, climbing to FL280.
 
 27
-00:02:45,000 --> 00:02:49,700
+00:02:47,880 --> 00:02:52,420
 Maintaining own separation and VMC, descending to FL80.
 
 28
-00:02:52,000 --> 00:02:55,700
+00:02:54,960 --> 00:02:58,150
 Reaching 8000 feet, request further climb.
 
 29
-00:02:58,000 --> 00:03:05,700
+00:03:00,690 --> 00:03:07,900
 Cancel SID, track direct to LLK, climb to and maintain FL110.
 
 30
-00:03:08,000 --> 00:03:11,700
+00:03:10,440 --> 00:03:13,850
 Experiencing icing condition. Request further descent.
 
 31
-00:03:14,000 --> 00:03:16,700
+00:03:16,390 --> 00:03:19,410
 Icing condition encountered. Request further climb.
 
 32
-00:03:19,000 --> 00:03:22,700
+00:03:21,950 --> 00:03:25,760
 Experiencing severe turbulence. Request further descent.
 
 33
-00:03:25,000 --> 00:03:27,700
+00:03:28,300 --> 00:03:31,070
 Reduce speed to Mach decimal 76.
 
 34
-00:03:30,000 --> 00:03:33,700
+00:03:33,610 --> 00:03:36,400
 Maintain Mach point 84 or greater.
 
 35
-00:03:36,000 --> 00:03:38,700
+00:03:38,940 --> 00:03:41,860
 Maintain Mach point 80 or less.
 
 36
-00:03:41,000 --> 00:03:42,700
+00:03:44,400 --> 00:03:46,290
 Maintain present speed.
 
 37
-00:03:45,000 --> 00:03:48,700
+00:03:48,830 --> 00:03:51,610
 Maintain 250 knots or greater.
 
 38
-00:03:51,000 --> 00:03:52,700
+00:03:54,150 --> 00:03:56,410
 Reduce to minimum clean speed.
 
 39
-00:03:55,000 --> 00:03:57,700
+00:03:58,950 --> 00:04:01,340
 Reduce to minimum approach speed.
 
 40
-00:04:00,000 --> 00:04:03,700
+00:04:03,880 --> 00:04:07,100
 Maintain 160 knots until 4 miles final.
 
 41
-00:04:06,000 --> 00:04:09,700
+00:04:09,640 --> 00:04:12,840
 Maintain 160 knots until outer marker.
 
 42
-00:04:12,000 --> 00:04:16,700
+00:04:15,380 --> 00:04:20,340
 Descend to FL120, on speed conversion, 250 knots.
 
 43
-00:04:19,000 --> 00:04:22,700
+00:04:22,880 --> 00:04:26,620
 Cancel speed restriction, continue descent to 7000 feet.
 
 44
-00:04:25,000 --> 00:04:31,700
+00:04:29,160 --> 00:04:35,890
 LMN-02 Departure, passing 2500 feet climbing to 9000 feet.
 
 45
-00:04:34,000 --> 00:04:39,700
+00:04:38,430 --> 00:04:43,350
 Maintaining FL350, cleared to destination, flight planned route.
 
 46
-00:04:42,000 --> 00:04:45,700
+00:04:45,890 --> 00:04:49,350
 Request radar vectors for visual approach Runway 22.
 
 47
-00:04:48,000 --> 00:04:50,700
+00:04:51,890 --> 00:04:54,710
 Request join downwind Runway 31.
 
 48
-00:04:53,000 --> 00:04:56,700
+00:04:57,250 --> 00:05:00,410
 Request taxi to holding point Runway 13.
 
 49
-00:04:59,000 --> 00:05:01,700
+00:05:02,950 --> 00:05:05,500
 Request taxi to south maintenance ramp.
 
 50
-00:05:04,000 --> 00:05:05,700
+00:05:08,040 --> 00:05:09,910
 Request frequency change.
 
 51
-00:05:08,000 --> 00:05:16,700
+00:05:12,450 --> 00:05:21,390
 15NM to HRB, FL290, tracking to JMU, squawking 6543.
 
 52
-00:05:19,000 --> 00:05:22,700
+00:05:23,930 --> 00:05:26,760
 Contact Control on 118.9.
 
 53
-00:05:25,000 --> 00:05:33,700
+00:05:29,300 --> 00:05:38,710
 Position OBLIK at 0646, maintaining FL310, estimating ZF 0658, WUH next.
 
 54
-00:05:36,000 --> 00:05:38,700
+00:05:41,250 --> 00:05:43,750
 Next report at WXA.
 
 55
-00:05:41,000 --> 00:05:43,700
+00:05:46,290 --> 00:05:48,150
 Omit position reports.
 
 56
-00:05:46,000 --> 00:05:48,700
+00:05:50,690 --> 00:05:52,970
 Omit position reports on this frequency.
 
 57
-00:05:51,000 --> 00:05:52,700
+00:05:55,510 --> 00:05:57,310
 Resume position reporting.
 
 58
-00:05:55,000 --> 00:05:57,700
+00:05:59,850 --> 00:06:02,520
 Delay not determined due runway obstruction.
 
 59
-00:06:00,000 --> 00:06:02,700
+00:06:05,060 --> 00:06:07,610
 Approach time not determined due weather.
 
 60
-00:06:05,000 --> 00:06:07,700
+00:06:10,150 --> 00:06:12,970
 Slot time not determined due flow control.
 
 61
-00:06:10,000 --> 00:06:12,700
+00:06:15,510 --> 00:06:17,980
 Revised slot time at 56.
 
 62
-00:06:15,000 --> 00:06:20,700
+00:06:20,520 --> 00:06:25,590
 Expect hold at HUR VOR for 10 minutes due traffic.
 
 63
-00:06:23,000 --> 00:06:25,700
+00:06:28,130 --> 00:06:30,710
 Expected approach time 44.
 
 64
-00:06:28,000 --> 00:06:30,700
+00:06:33,250 --> 00:06:36,210
 Revised expected approach time 54.
 
 65
-00:06:33,000 --> 00:06:34,700
+00:06:38,750 --> 00:06:40,360
 No delay expected.
 
 66
-00:06:37,000 --> 00:06:41,700
+00:06:42,900 --> 00:06:46,960
 Delay not determined, numerous aircraft holding for weather improvement.
 
 67
-00:06:44,000 --> 00:06:50,700
+00:06:49,500 --> 00:06:56,030
 Cleared to exit the hold, fly direct to ML. Contact Approach on 128.35.
 
 68
-00:06:53,000 --> 00:07:02,700
+00:06:58,570 --> 00:07:08,130
 Approach clearance canceled, turn left direct to DA, climb to 4000 feet, hold as published,expect further clearance at time 50.
 
 69
-00:07:05,000 --> 00:07:06,700
+00:07:10,670 --> 00:07:12,060
 Ready for approach.
 
 70
-00:07:09,000 --> 00:07:10,700
+00:07:14,600 --> 00:07:16,500
 Request leave the holding pattern.
 
 71
-00:07:13,000 --> 00:07:20,700
+00:07:19,040 --> 00:07:26,970
 After passing SY VOR, leave the hold on heading 250, cleared for VOR approach Runway 06.
 
 72
-00:07:23,000 --> 00:07:27,700
+00:07:29,510 --> 00:07:33,630
 Leave JFK VOR heading 210.
 
 73
-00:07:30,000 --> 00:07:38,700
+00:07:36,170 --> 00:07:44,350
 Cleared to LHR, hold at LHR as published. Maintain 8000 feet. Expect further clearance at 18.
 
 74
-00:07:41,000 --> 00:07:52,700
+00:07:46,890 --> 00:07:58,600
 Hold south of AMS VOR at 9000 feet, inbound track 270 degrees, left hand pattern, outboundtime 1 minute. Expect further clearance at 46.
 
 75
-00:07:55,000 --> 00:08:07,700
+00:08:01,140 --> 00:08:14,040
 Cleared to the 180 radial of PER VOR at 15 DME. Hold south, left hand pattern, outboundtime 2 minutes, expect approach clearance at 37.
 
 76
-00:08:10,000 --> 00:08:15,700
+00:08:16,580 --> 00:08:21,900
 Information P received, stand 03, ready to copy ATC clearance.
 
 77
-00:08:18,000 --> 00:08:22,700
+00:08:24,440 --> 00:08:28,720
 Gate 26, request clearance to London with information F.
 
 78
-00:08:25,000 --> 00:08:41,700
+00:08:31,260 --> 00:08:47,800
 Cleared to destination, flight planned route, cruising level 330, departure Runway 04, initialaltitude 7000 feet. HZ-01 Departure, squawk 2563, departure frequency 124.35.
 
 79
-00:08:44,000 --> 00:08:53,700
+00:08:50,340 --> 00:09:00,230
 Cleared to destination via ZAM, flight planned route, D03 Departure, cruising level 230,squawk 3763.
 
 80
-00:08:56,000 --> 00:09:11,700
+00:09:02,770 --> 00:09:18,130
 Cleared to destination via flight planned route, Runway 36R, LKO-01 Departure, initially climbto 4500 feet, cruising level 310, when airborne contact 119.7, squawk 2515.
 
 81
-00:09:14,000 --> 00:09:27,700
+00:09:20,670 --> 00:09:34,050
 Cleared via ZF-01 Departure, initial altitude 5000 feet. Departure frequency 125.9. Cruisinglevel 290, departure Runway 04. Squawk 6563.
 
 82
-00:09:30,000 --> 00:09:45,700
+00:09:36,590 --> 00:09:52,510
 Cleared to destination via flight plan route. Departure Runway 36L. HZ-01D Departure. Initialaltitude 5000 feet. Cruising level 330. Departure frequency 119.45, squawk 5667.
 
 83
-00:09:48,000 --> 00:09:55,700
+00:09:55,050 --> 00:10:02,350
 Recleared to destination via ZF-01 Departure, Runway 36R, rest of clearance unchanged.
 
 84
-00:09:58,000 --> 00:10:05,700
+00:10:04,890 --> 00:10:12,420
 Recleared to destination via B213, WHA, R343, rest of route unchanged.
 
 85
-00:10:08,000 --> 00:10:19,700
+00:10:14,960 --> 00:10:26,410
 Cleared to destination via flight planned route, initial climb to 2700 feet, request level change en-route, departure frequency 120.3, squawk 0722.
 
 86
-00:10:22,000 --> 00:10:26,700
+00:10:28,950 --> 00:10:33,450
 Gate15, information C, ready to copy ATC clearance.
 
 87
-00:10:29,000 --> 00:10:39,700
+00:10:35,990 --> 00:10:46,880
 Cleared to destination, BK02 RNAV Departure, initially 3000 feet, departure frequency 125.4, squawk 3311.
 
 88
-00:10:42,000 --> 00:10:45,700
+00:10:49,420 --> 00:10:52,570
 Say again all after 3000 feet.
 
 89
-00:10:48,000 --> 00:10:50,700
+00:10:55,110 --> 00:10:57,840
 Say again all before departure frequency.
 
 90
-00:10:53,000 --> 00:10:55,700
+00:11:00,380 --> 00:11:02,500
 Say again the initial altitude.
 
 91
-00:10:58,000 --> 00:11:04,700
+00:11:05,040 --> 00:11:11,770
 Unable to cross LX FL150 due weight, maintaining FL130.
 
 92
-00:11:07,000 --> 00:11:09,700
+00:11:14,310 --> 00:11:17,430
 Destination Beijing, request departure information.
 
 93
-00:11:12,000 --> 00:11:14,700
+00:11:19,970 --> 00:11:22,400
 Bay24, request start-up.
 
 94
-00:11:17,000 --> 00:11:21,700
+00:11:24,940 --> 00:11:28,920
 Start up approved, QNH 29.91.
 
 95
-00:11:24,000 --> 00:11:27,700
+00:11:31,460 --> 00:11:35,860
 Start up approved, altimeter setting 29.91.
 
 96
-00:11:30,000 --> 00:11:34,700
+00:11:38,400 --> 00:11:42,270
 Start up at 35, QNH 997.
 
 97
-00:11:37,000 --> 00:11:41,700
+00:11:44,810 --> 00:11:49,320
 Expect start up at 35, QNH 1030.
 
 98
-00:11:44,000 --> 00:11:49,700
+00:11:51,860 --> 00:11:58,180
 Expect departure at 49, start up at own discretion, QNH 1004.
 
 99
-00:11:52,000 --> 00:11:55,700
+00:12:00,720 --> 00:12:03,620
 Radio check on 118.3.
 
 100
-00:11:58,000 --> 00:11:59,700
+00:12:06,160 --> 00:12:07,810
 I read you 5.
 
 101
-00:12:02,000 --> 00:12:03,700
+00:12:10,350 --> 00:12:12,130
 You are unreadable.
 
 102
-00:12:06,000 --> 00:12:07,700
+00:12:14,670 --> 00:12:16,500
 Can you speak slower?
 
 103
-00:12:10,000 --> 00:12:11,700
+00:12:19,040 --> 00:12:20,400
 How do you read?
 
 104
-00:12:14,000 --> 00:12:19,700
+00:12:22,940 --> 00:12:28,250
 QNH 997, I say again, QNH 997.
 
 105
-00:12:22,000 --> 00:12:24,700
+00:12:30,790 --> 00:12:33,500
 Stand 27, request pushback.
 
 106
-00:12:27,000 --> 00:12:29,700
+00:12:36,040 --> 00:12:38,430
 Pushback approved, Runway 31.
 
 107
-00:12:32,000 --> 00:12:33,700
+00:12:40,970 --> 00:12:42,450
 Stand by pushback.
 
 108
-00:12:36,000 --> 00:12:37,700
+00:12:44,990 --> 00:12:46,860
 Pushback at own discretion.
 
 109
-00:12:40,000 --> 00:12:42,700
+00:12:49,400 --> 00:12:51,990
 Pushback approved, long pushback.
 
 110
-00:12:45,000 --> 00:12:47,700
+00:12:54,530 --> 00:12:57,060
 Pushback to taxiway A approved.
 
 111
-00:12:50,000 --> 00:12:52,700
+00:12:59,600 --> 00:13:01,950
 Pushback approved, facing west.
 
 112
-00:12:55,000 --> 00:12:57,700
+00:13:04,490 --> 00:13:07,050
 Cancel pushback, we have maintenance problem.
 
 113
-00:13:00,000 --> 00:13:02,700
+00:13:09,590 --> 00:13:12,430
 Ground, Cockpit. Ready for pushback.
 
 114
-00:13:05,000 --> 00:13:06,700
+00:13:14,970 --> 00:13:16,490
 Brakes released.
 
 115
-00:13:09,000 --> 00:13:11,700
+00:13:19,030 --> 00:13:20,650
 Starting Number One.
 
 116
-00:13:14,000 --> 00:13:15,700
+00:13:23,190 --> 00:13:25,290
 Brakes set, disconnect.
 
 117
-00:13:18,000 --> 00:13:19,700
+00:13:27,830 --> 00:13:29,430
 Request taxi.
 
 118
-00:13:22,000 --> 00:13:25,700
+00:13:31,970 --> 00:13:35,520
 Taxi via taxiway C to holding point Runway 24.
 
 119
-00:13:28,000 --> 00:13:31,700
+00:13:38,060 --> 00:13:41,550
 Taxi to holding point Runway 24, traffic in sight.
 
 120
-00:13:34,000 --> 00:13:36,700
+00:13:44,090 --> 00:13:46,800
 Request taxi back for maintenance purpose.
 
 121
-00:13:39,000 --> 00:13:42,700
+00:13:49,340 --> 00:13:52,370
 Negative. We need 10 minutes to cool the brakes.
 
 122
-00:13:45,000 --> 00:13:48,700
+00:13:54,910 --> 00:13:58,500
 Approaching holding point, request crossing Runway 24.
 
 123
-00:13:51,000 --> 00:13:53,700
+00:14:01,040 --> 00:14:03,290
 Hold short of Runway 24.
 
 124
-00:13:56,000 --> 00:13:57,700
+00:14:05,830 --> 00:14:07,880
 Holding, traffic in sight.
 
 125
-00:14:00,000 --> 00:14:03,700
+00:14:10,420 --> 00:14:13,440
 Cross Runway 24, report runway vacated.
 
 126
-00:14:06,000 --> 00:14:09,700
+00:14:15,980 --> 00:14:19,700
 Unable to vacate via A2, request full length of runway.
 
 127
-00:14:12,000 --> 00:14:14,700
+00:14:22,240 --> 00:14:24,590
 Crossing Runway 24, wilco.
 
 128
-00:14:17,000 --> 00:14:18,700
+00:14:27,130 --> 00:14:28,740
 Runway vacated.
 
 129
-00:14:21,000 --> 00:14:24,700
+00:14:31,280 --> 00:14:35,150
 Giving way to B747 passing from left to right.
 
 130
-00:14:27,000 --> 00:14:30,700
+00:14:37,690 --> 00:14:41,130
 Follow the greens to holding point Runway 05R.
 
 131
-00:14:33,000 --> 00:14:37,700
+00:14:43,670 --> 00:14:48,710
 Cross red stop-bar at A1, we understand stop-bar unserviceable.
 
 132
-00:14:40,000 --> 00:14:45,700
+00:14:51,250 --> 00:14:55,990
 After landing Airbus320, cross Runway 24, report vacated.
 
 133
-00:14:48,000 --> 00:14:50,700
+00:14:58,530 --> 00:15:01,750
 Taxi to holding point C3, Runway 36.
 
 134
-00:14:53,000 --> 00:14:59,700
+00:15:04,290 --> 00:15:10,850
 Behind Boeing747 passing left to right, taxi to holding point A1 Runway 24.
 
 135
-00:15:02,000 --> 00:15:03,700
+00:15:13,390 --> 00:15:14,700
 Ready for departure.
 
 136
-00:15:06,000 --> 00:15:10,700
+00:15:17,240 --> 00:15:21,620
 After departure, climb straight ahead until 3000 feet.
 
 137
-00:15:13,000 --> 00:15:15,700
+00:15:24,160 --> 00:15:27,270
 Cancel SID, maintain runway heading.
 
 138
-00:15:18,000 --> 00:15:20,700
+00:15:29,810 --> 00:15:32,240
 Lining up Runway 01C.
 
 139
-00:15:23,000 --> 00:15:25,700
+00:15:34,780 --> 00:15:36,750
 Ready for immediate departure.
 
 140
-00:15:28,000 --> 00:15:29,700
+00:15:39,290 --> 00:15:41,150
 Cleared for immediate takeoff.
 
 141
-00:15:32,000 --> 00:15:36,700
+00:15:43,690 --> 00:15:47,600
 Runway 06, cleared for takeoff. Report airborne.
 
 142
-00:15:39,000 --> 00:15:41,700
+00:15:50,140 --> 00:15:53,290
 Cleared for takeoff, Runway 06, wilco.
 
 143
-00:15:44,000 --> 00:15:48,700
+00:15:55,830 --> 00:16:00,320
 Airborne, passing 500 feet for 4000 feet.
 
 144
-00:15:51,000 --> 00:15:53,700
+00:16:02,860 --> 00:16:05,080
 The airbus on final in sight.
 
 145
-00:15:56,000 --> 00:15:58,700
+00:16:07,620 --> 00:16:10,740
 Behind Airbus on short final, line up behind.
 
 146
-00:16:01,000 --> 00:16:06,700
+00:16:13,280 --> 00:16:18,880
 After departure, turn left heading 190, Runway 24R, cleared for takeoff.
 
 147
-00:16:09,000 --> 00:16:11,700
+00:16:21,420 --> 00:16:24,070
 Request right turn when airborne due weather.
 
 148
-00:16:14,000 --> 00:16:17,700
+00:16:26,610 --> 00:16:29,500
 Take off immediately or hold short of runway.
 
 149
-00:16:20,000 --> 00:16:22,700
+00:16:32,040 --> 00:16:34,650
 Take off immediately or vacate runway.
 
 150
-00:16:25,000 --> 00:16:29,700
+00:16:37,190 --> 00:16:41,430
 Hold position, cancel takeoff, I say again, cancel takeoff.
 
 151
-00:16:32,000 --> 00:16:33,200
+00:16:43,970 --> 00:16:45,170
 Holding position.
 
 152
-00:16:35,000 --> 00:16:37,700
+00:16:47,710 --> 00:16:49,620
 Stopping! Engine fire.
 
 153
-00:16:40,000 --> 00:16:41,700
+00:16:52,160 --> 00:16:53,900
 Request return to ramp.
 
 154
-00:16:44,000 --> 00:16:46,700
+00:16:56,440 --> 00:16:59,590
 Tire burst, possible evacuation on runway.
 
 155
-00:16:49,000 --> 00:16:52,700
+00:17:02,130 --> 00:17:04,860
 Negative intersection departure due performance.
 
 156
-00:16:55,000 --> 00:16:58,700
+00:17:07,400 --> 00:17:11,030
 Affirm. We can accept intersection departure from C2.
 
 157
-00:17:01,000 --> 00:17:03,700
+00:17:13,570 --> 00:17:16,240
 Request intersection departure from C2.
 
 158
-00:17:06,000 --> 00:17:10,700
+00:17:18,780 --> 00:17:23,910
 Request Takeoff Runway Available (TORA) from intersection C2.
 
 159
-00:17:13,000 --> 00:17:19,700
+00:17:26,450 --> 00:17:32,470
 Request Accelerate-Stop Distance Available (ASDA) from intersection D1.
 
 160
-00:17:22,000 --> 00:17:27,700
+00:17:35,010 --> 00:17:40,180
 Request Takeoff Distance Available (TODA) from intersection E3.
 
 161
-00:17:30,000 --> 00:17:33,700
+00:17:42,720 --> 00:17:47,040
 Line up and wait. Understand one aircraft to depart from A2.
 
 162
-00:17:36,000 --> 00:17:40,700
+00:17:49,580 --> 00:17:53,730
 Taxi via A2, backtrack and line-up Runway 18.
 
 163
-00:17:43,000 --> 00:17:47,700
+00:17:56,270 --> 00:18:00,480
 Airbus 330 heavy, 8000 feet, Information X.
 
 164
-00:17:50,000 --> 00:17:52,700
+00:18:03,020 --> 00:18:06,270
 Join right-hand downwind, Runway 34.
 
 165
-00:17:55,000 --> 00:17:58,700
+00:18:08,810 --> 00:18:12,110
 Number Two, follow airbus 330 on base.
 
 166
-00:18:01,000 --> 00:18:03,700
+00:18:14,650 --> 00:18:16,680
 Number Two, traffic in sight.
 
 167
-00:18:06,000 --> 00:18:08,700
+00:18:19,220 --> 00:18:22,400
 Straight-in visual approach, Runway 34.
 
 168
-00:18:11,000 --> 00:18:15,700
+00:18:24,940 --> 00:18:28,720
 Extend downwind, Number Two, airbus 320 in sight.
 
 169
-00:18:18,000 --> 00:18:19,700
+00:18:31,260 --> 00:18:33,370
 Orbit right. Number Two.
 
 170
-00:18:22,000 --> 00:18:25,700
+00:18:35,910 --> 00:18:39,020
 Number Two, follow airbus 320 ahead.
 
 171
-00:18:28,000 --> 00:18:29,700
+00:18:41,560 --> 00:18:43,350
 Make a short approach.
 
 172
-00:18:32,000 --> 00:18:34,700
+00:18:45,890 --> 00:18:48,360
 Long final, airfield in sight.
 
 173
-00:18:37,000 --> 00:18:39,700
+00:18:50,900 --> 00:18:53,330
 Continue approach Runway 25.
 
 174
-00:18:42,000 --> 00:18:44,700
+00:18:55,870 --> 00:18:58,340
 Runway 27, cleared to land.
 
 175
-00:18:47,000 --> 00:18:49,700
+00:19:00,880 --> 00:19:03,290
 Short final, request wind check.
 
 176
-00:18:52,000 --> 00:18:54,700
+00:19:05,830 --> 00:19:09,160
 Request low pass due unsafe landing gear indication.
 
 177
-00:18:57,000 --> 00:19:01,700
+00:19:11,700 --> 00:19:16,170
 Low pass approved Runway 27, not below 500 feet.
 
 178
-00:19:04,000 --> 00:19:07,700
+00:19:18,710 --> 00:19:21,680
 Landing clearance canceled. Continue approach.
 
 179
-00:19:10,000 --> 00:19:12,700
+00:19:24,220 --> 00:19:27,220
 Behind the Boeing737, cleared to land.
 
 180
-00:19:15,000 --> 00:19:16,700
+00:19:29,760 --> 00:19:31,520
 Request low approach.
 
 181
-00:19:19,000 --> 00:19:21,700
+00:19:34,060 --> 00:19:36,550
 Runway not in sight, going around.
 
 182
-00:19:24,000 --> 00:19:27,700
+00:19:39,090 --> 00:19:42,060
 No contact at minimum, going around.
 
 183
-00:19:30,000 --> 00:19:31,700
+00:19:44,600 --> 00:19:46,780
 Wind shear, going around.
 
 184
-00:19:34,000 --> 00:19:36,700
+00:19:49,320 --> 00:19:51,890
 Going around, localizer fluctuation.
 
 185
-00:19:39,000 --> 00:19:43,700
+00:19:54,430 --> 00:19:58,970
 Follow the standard missed approach procedure, climbing to 3000 feet.
 
 186
-00:19:46,000 --> 00:19:52,700
+00:20:01,510 --> 00:20:07,300
 Take first right. When vacated, contact Ground 118.35.
 
 187
-00:19:55,000 --> 00:19:58,700
+00:20:09,840 --> 00:20:13,860
 After vacated contact Ground 121.6.
 
 188
-00:20:01,000 --> 00:20:04,700
+00:20:16,400 --> 00:20:19,660
 Taxi to Stand 27 via Taxiway A.
 
 189
-00:20:07,000 --> 00:20:08,700
+00:20:22,200 --> 00:20:24,090
 Taxi to the end of Runway.
 
 190
-00:20:11,000 --> 00:20:14,700
+00:20:26,630 --> 00:20:29,680
 Confirm construction work adjacent to Gate 37.
 
 191
-00:20:17,000 --> 00:20:19,700
+00:20:32,220 --> 00:20:35,290
 Confirm centerline taxiway lighting unserviceable.
 
 192
-00:20:22,000 --> 00:20:25,700
+00:20:37,830 --> 00:20:41,050
 Confirm PAPI light unserviceable.
 
 193
-00:20:28,000 --> 00:20:31,700
+00:20:43,590 --> 00:20:47,020
 The Runway light is too bright. Request dim it.
 
 194
-00:20:34,000 --> 00:20:36,700
+00:20:49,560 --> 00:20:52,060
 Flock of birds 3 miles final.
 
 195
-00:20:39,000 --> 00:20:42,700
+00:20:54,600 --> 00:20:58,350
 Runway covered with patches of water, braking action medium.
 
 196
-00:20:45,000 --> 00:20:48,700
+00:21:00,890 --> 00:21:04,110
 Confirm airport rescue and fire facilities category.
 
 197
-00:20:51,000 --> 00:20:53,700
+00:21:06,650 --> 00:21:09,540
 Is the weather improving or deteriorating?
 
 198
-00:20:56,000 --> 00:21:01,700
+00:21:12,080 --> 00:21:17,510
 Thicker patches of fog exist further along the runway. RVR significantly reduced.
 
 199
-00:21:04,000 --> 00:21:07,700
+00:21:20,050 --> 00:21:23,390
 Confirm current RVR less than 400 meters.
 
 200
-00:21:10,000 --> 00:21:12,700
+00:21:25,930 --> 00:21:29,030
 Confirm visibility more than 1000 meters.
 
 201
-00:21:15,000 --> 00:21:17,700
+00:21:31,570 --> 00:21:33,830
 Is mid-point RVR available?
 
 202
-00:21:20,000 --> 00:21:22,700
+00:21:36,370 --> 00:21:39,250
 Confirm RVR Runway 27.
 
 203
-00:21:25,000 --> 00:21:29,700
+00:21:41,790 --> 00:21:45,460
 RVR Runway 27 is 600 meters.
 
 204
-00:21:32,000 --> 00:21:35,700
+00:21:48,000 --> 00:21:52,440
 Confirm touchdown RVR greater than 350 meters.
 
 205
-00:21:38,000 --> 00:21:42,700
+00:21:54,980 --> 00:21:59,340
 Confirm stop-end RVR 150 meters.
 
 206
-00:21:45,000 --> 00:21:49,700
+00:22:01,880 --> 00:22:06,530
 Confirm midpoint RVR more than 550 meters.
 
 207
-00:21:52,000 --> 00:21:55,700
+00:22:09,070 --> 00:22:12,290
 Confirm threshold Runway 27 displaced.
 
 208
-00:21:58,000 --> 00:22:01,700
+00:22:14,830 --> 00:22:18,070
 The runway surface is damp. Braking action good.
 
 209
-00:22:04,000 --> 00:22:06,700
+00:22:20,610 --> 00:22:23,090
 Confirm the reason for our flight suspension.
 
 210
-00:22:09,000 --> 00:22:12,700
+00:22:25,630 --> 00:22:29,370
 Confirm our flight has been suspended due bio-hazards at destination.
 
 211
-00:22:15,000 --> 00:22:17,700
+00:22:31,910 --> 00:22:34,810
 Confirm the reason for impounding our aircraft.
 
 212
-00:22:20,000 --> 00:22:22,700
+00:22:37,350 --> 00:22:40,040
 Tow approved via A to remote apron.
 
 213
-00:22:25,000 --> 00:22:27,700
+00:22:42,580 --> 00:22:44,290
 Request de-icing.
 
 214
-00:22:30,000 --> 00:22:32,700
+00:22:46,830 --> 00:22:49,340
 Request frost removal only at the gate.
 
 215
-00:22:35,000 --> 00:22:37,700
+00:22:51,880 --> 00:22:54,460
 De-icing completed. Request taxi.
 
 216
-00:22:40,000 --> 00:22:41,700
+00:22:57,000 --> 00:22:59,310
 Request start engine at the gate.
 
 217
-00:22:44,000 --> 00:22:45,700
+00:23:01,850 --> 00:23:03,450
 Request time check.
 
 218
-00:22:48,000 --> 00:22:50,700
+00:23:05,990 --> 00:23:07,530
 Request backtrack.
 
 219
-00:22:53,000 --> 00:22:58,700
+00:23:10,070 --> 00:23:15,910
 Unable BK-1A Departure due performance. Request BK-1B.
 
 220
-00:23:01,000 --> 00:23:02,700
+00:23:18,450 --> 00:23:20,330
 Request departure instruction.
 
 221
-00:23:05,000 --> 00:23:09,700
+00:23:22,870 --> 00:23:27,790
 When airborne, track extended center-line, cleared for takeoff, Runway 18.
 
 222
-00:23:12,000 --> 00:23:16,700
+00:23:30,330 --> 00:23:34,010
 Contact Arrival 118.050.
 
 223
-00:23:19,000 --> 00:23:21,700
+00:23:36,550 --> 00:23:39,300
 Request remote apron for maintenance purpose.
 
 224
-00:23:24,000 --> 00:23:25,700
+00:23:41,840 --> 00:23:43,580
 Continue present heading.
 
 225
-00:23:28,000 --> 00:23:30,700
+00:23:46,120 --> 00:23:48,680
 Resume own navigation to BK.
 
 226
-00:23:33,000 --> 00:23:35,700
+00:23:51,220 --> 00:23:53,570
 Confirm identification lost.
 
 227
-00:23:38,000 --> 00:23:41,700
+00:23:56,110 --> 00:23:59,840
 Identified, position 50 miles east of BK.
 
 228
-00:23:44,000 --> 00:23:48,700
+00:24:02,380 --> 00:24:06,880
 30 miles from touchdown, contact Approach 118.1.
 
 229
-00:23:51,000 --> 00:23:52,700
+00:24:09,420 --> 00:24:11,320
 Three sixty turn left.
 
 230
-00:23:55,000 --> 00:23:57,700
+00:24:13,860 --> 00:24:15,770
 Orbit left for delay.
 
 231
-00:24:00,000 --> 00:24:01,700
+00:24:18,310 --> 00:24:19,650
 Looking out.
 
 232
-00:24:04,000 --> 00:24:05,200
+00:24:22,190 --> 00:24:23,580
 Traffic in sight.
 
 233
-00:24:07,000 --> 00:24:09,700
+00:24:26,120 --> 00:24:28,790
 Negative contact due IMC.
 
 234
-00:24:12,000 --> 00:24:14,700
+00:24:31,330 --> 00:24:33,310
 Traffic passed and clear.
 
 235
-00:24:17,000 --> 00:24:19,700
+00:24:35,850 --> 00:24:38,180
 Squawk 7563.
 
 236
-00:24:22,000 --> 00:24:24,700
+00:24:40,720 --> 00:24:43,460
 Reset squawk 5101.
 
 237
-00:24:27,000 --> 00:24:28,700
+00:24:46,000 --> 00:24:47,530
 Squawk ident.
 
 238
-00:24:31,000 --> 00:24:32,700
+00:24:50,070 --> 00:24:51,520
 Squawk standby.
 
 239
-00:24:35,000 --> 00:24:37,700
+00:24:54,060 --> 00:24:57,320
 Squawk Charlie and code 5120.
 
 240
-00:24:40,000 --> 00:24:42,700
+00:24:59,860 --> 00:25:01,680
 Stopping squawk Charlie.
 
 241
-00:24:45,000 --> 00:24:47,700
+00:25:04,220 --> 00:25:07,250
 Affirm squawk 7500.
 
 242
-00:24:50,000 --> 00:24:53,700
+00:25:09,790 --> 00:25:13,480
 Altimeter 1003 8000ft.
 
 243
-00:24:56,000 --> 00:24:59,700
+00:25:16,020 --> 00:25:18,920
 Negative squawk ident due transponder failure.
 
 244
-00:25:02,000 --> 00:25:04,700
+00:25:21,460 --> 00:25:23,940
 Turn right heading 340.
 
 245
-00:25:07,000 --> 00:25:08,700
+00:25:26,480 --> 00:25:28,510
 Turn right 20 degrees.
 
 246
-00:25:11,000 --> 00:25:14,700
+00:25:31,050 --> 00:25:33,940
 Leave BK heading 190.
 
 247
-00:25:17,000 --> 00:25:18,700
+00:25:36,480 --> 00:25:38,580
 Fly heading 285.
 
 248
-00:25:21,000 --> 00:25:23,700
+00:25:41,120 --> 00:25:43,950
 Stop turn heading 070.
 
 249
-00:25:26,000 --> 00:25:29,700
+00:25:46,490 --> 00:25:49,390
 Request heading 180 due weather.
 
 250
-00:25:32,000 --> 00:25:34,700
+00:25:51,930 --> 00:25:54,790
 Confirm danger area 113 active.
 
 251
-00:25:37,000 --> 00:25:41,700
+00:25:57,330 --> 00:26:01,670
 Your radar vector appears to be taking us to the prohibited area, confirm.
 
 252
-00:25:44,000 --> 00:25:48,700
+00:26:04,210 --> 00:26:08,820
 50 miles right of track approved, when able, proceed direct TB.
 
 253
-00:25:51,000 --> 00:25:53,700
+00:26:11,360 --> 00:26:14,020
 Indicated speed 270 knots.
 
 254
-00:25:56,000 --> 00:25:58,700
+00:26:16,560 --> 00:26:18,900
 Maintain 300 knots or less.
 
 255
-00:26:01,000 --> 00:26:04,700
+00:26:21,440 --> 00:26:24,880
 Maintain 180 knots until 8 miles from touchdown.
 
 256
-00:26:07,000 --> 00:26:11,700
+00:26:27,420 --> 00:26:31,790
 Maintain Mach decimal 82, transition speed 310 knots.
 
 257
-00:26:14,000 --> 00:26:17,700
+00:26:34,330 --> 00:26:37,940
 Maintain speed 280 knots or greater for separation.
 
 258
-00:26:20,000 --> 00:26:22,700
+00:26:40,480 --> 00:26:43,380
 Cross CK at 35 or later.
 
 259
-00:26:25,000 --> 00:26:27,700
+00:26:45,920 --> 00:26:48,860
 Cross DG at 24 or earlier.
 
 260
-00:26:30,000 --> 00:26:33,700
+00:26:51,400 --> 00:26:54,000
 Do not exceed 280 knots.
 
 261
-00:26:36,000 --> 00:26:38,700
+00:26:56,540 --> 00:26:59,120
 Reduce speed to 240 knots.
 
 262
-00:26:41,000 --> 00:26:43,700
+00:27:01,660 --> 00:27:04,570
 Increase speed to 300 knots or greater.
 
 263
-00:26:46,000 --> 00:26:48,700
+00:27:07,110 --> 00:27:09,770
 Increase speed by 10 knots.
 
 264
-00:26:51,000 --> 00:26:52,700
+00:27:12,310 --> 00:27:13,830
 Resume normal speed.
 
 265
-00:26:55,000 --> 00:26:56,700
+00:27:16,370 --> 00:27:18,160
 No speed restrictions.
 
 266
-00:26:59,000 --> 00:27:02,700
+00:27:20,700 --> 00:27:23,600
 Request speed 200 knots due configuration.
 
 267
-00:27:05,000 --> 00:27:07,700
+00:27:26,140 --> 00:27:29,330
 Request speed 250 knots due turbulence.
 
 268
-00:27:10,000 --> 00:27:12,700
+00:27:31,870 --> 00:27:34,510
 Omit position reports until LN.
 
 269
-00:27:15,000 --> 00:27:17,700
+00:27:37,050 --> 00:27:39,100
 Next report at IP.
 
 270
-00:27:20,000 --> 00:27:22,700
+00:27:41,640 --> 00:27:43,890
 Report required only at boundary.
 
 271
-00:27:25,000 --> 00:27:30,700
+00:27:46,430 --> 00:27:52,210
 We have traffic at our 12 o’clock, 5 miles, 500 feet below, climbing.
 
 272
-00:27:33,000 --> 00:27:38,700
+00:27:54,750 --> 00:28:00,090
 Traffic indication at our 1 o’clock, 4 miles, same altitude, converging.
 
 273
-00:27:41,000 --> 00:27:42,700
+00:28:02,630 --> 00:28:04,170
 Request vectors.
 
 274
-00:27:45,000 --> 00:27:47,700
+00:28:06,710 --> 00:28:09,260
 Unable to receive transmission on that frequency.
 
 275
-00:27:50,000 --> 00:27:51,700
+00:28:11,800 --> 00:28:13,920
 Request 15 miles final.
 
 276
-00:27:54,000 --> 00:27:57,700
+00:28:16,460 --> 00:28:20,070
 Maintain 3000 feet until glide path interception.
 
 277
-00:28:00,000 --> 00:28:05,700
+00:28:22,610 --> 00:28:27,700
 NOTAM says glide slope for Runway15 is unserviceable, confirm.
 
 278
-00:28:08,000 --> 00:28:11,700
+00:28:30,240 --> 00:28:33,710
 Confirm ILS frequency for Runway 17L.
 
 279
-00:28:14,000 --> 00:28:17,700
+00:28:36,250 --> 00:28:39,900
 In case of going around, turn left heading 210.
 
 280
-00:28:20,000 --> 00:28:22,700
+00:28:42,440 --> 00:28:44,510
 Advise transponder capability.
 
 281
-00:28:25,000 --> 00:28:26,700
+00:28:47,050 --> 00:28:48,850
 Transponder Charlie.
 
 282
-00:28:29,000 --> 00:28:30,700
+00:28:51,390 --> 00:28:53,260
 Transponder unserviceable.
 
 283
-00:28:33,000 --> 00:28:36,700
+00:28:55,800 --> 00:28:59,550
 ADS-B transmitter 1090 (ten-ninety) data link.
 
 284
-00:28:39,000 --> 00:28:42,700
+00:29:02,090 --> 00:29:05,710
 ADS-B receiver 1090 (ten-ninety) data link.
 
 285
-00:28:45,000 --> 00:28:47,700
+00:29:08,250 --> 00:29:10,710
 Negative ADS-B.
 
 286
-00:28:50,000 --> 00:28:53,700
+00:29:13,250 --> 00:29:16,580
 Re-enter ADS-B aircraft identification.
 
 287
-00:28:56,000 --> 00:28:58,700
+00:29:19,120 --> 00:29:21,560
 Stop ADS-B transmission.
 
 288
-00:29:01,000 --> 00:29:04,700
+00:29:24,100 --> 00:29:27,770
 Stop squawk transmit ADS-B only.
 
 289
-00:29:07,000 --> 00:29:09,700
+00:29:30,310 --> 00:29:32,960
 Fly no further west of your current position.
 
 290
-00:29:12,000 --> 00:29:15,700
+00:29:35,500 --> 00:29:38,770
 Unable identify the waypoint, request radar vectors.
 
 291
-00:29:18,000 --> 00:29:21,700
+00:29:41,310 --> 00:29:44,700
 Right heading 120, my own terrain clearance.
 
 292
-00:29:24,000 --> 00:29:27,700
+00:29:47,240 --> 00:29:50,880
 Heading 120, correction, 140.
 
 293
-00:29:30,000 --> 00:29:34,700
+00:29:53,420 --> 00:29:57,760
 We are too low to the surrounding terrain. Confirm we are still being radar vectored.
 
 294
-00:29:37,000 --> 00:29:39,700
+00:30:00,300 --> 00:30:03,430
 Confirm we are still above your minimum vectoring altitude.
 
 295
-00:29:42,000 --> 00:29:47,700
+00:30:05,970 --> 00:30:11,480
 Right heading 040 until passing FL70 then direct to BK.
 
 296
-00:29:50,000 --> 00:29:54,700
+00:30:14,020 --> 00:30:18,040
 Direct to JO, descend to FL50.
 
 297
-00:29:57,000 --> 00:29:58,700
+00:30:20,580 --> 00:30:22,630
 Passing FL70.
 
 298
-00:30:01,000 --> 00:30:08,700
+00:30:25,170 --> 00:30:32,770
 Descending to 4000 feet QNH1005, expect ILS approach Runway 24.
 
 299
-00:30:11,000 --> 00:30:14,700
+00:30:35,310 --> 00:30:38,790
 Request straight-in ILS approach Runway 24.
 
 300
-00:30:17,000 --> 00:30:25,700
+00:30:41,330 --> 00:30:49,370
 Cleared straight-in ILS approach Runway 24, descend to 3000 feet, QNH1011.
 
 301
-00:30:28,000 --> 00:30:30,700
+00:30:51,910 --> 00:30:54,810
 Airfield in sight, request visual approach.
 
 302
-00:30:33,000 --> 00:30:36,700
+00:30:57,350 --> 00:31:00,620
 When established on the localizer, descend on the glide path.
 
 303
-00:30:39,000 --> 00:30:40,700
+00:31:03,160 --> 00:31:05,110
 Established on the localizer.
 
 304
-00:30:43,000 --> 00:30:45,700
+00:31:07,650 --> 00:31:10,180
 Fully established Runway 24.
 
 305
-00:30:48,000 --> 00:30:57,700
+00:31:12,720 --> 00:31:22,180
 Cleared VOR-DME approach Runway 24, descending to 3000 feet QNH1007.
 
 306
-00:31:00,000 --> 00:31:01,700
+00:31:24,720 --> 00:31:26,330
 Runway in sight.
 
 307
-00:31:04,000 --> 00:31:08,700
+00:31:28,870 --> 00:31:32,940
 Number One, contact Tower 118.7.
 
 308
-00:31:11,000 --> 00:31:12,700
+00:31:35,480 --> 00:31:37,000
 Passing outer marker.
 
 309
-00:31:15,000 --> 00:31:17,700
+00:31:39,540 --> 00:31:42,280
 Report MQR outbound.
 
 310
-00:31:20,000 --> 00:31:23,700
+00:31:44,820 --> 00:31:47,970
 Procedure turn completed, localizer established.
 
 311
-00:31:26,000 --> 00:31:27,700
+00:31:50,510 --> 00:31:52,380
 Request visual approach.
 
 312
-00:31:30,000 --> 00:31:32,700
+00:31:54,920 --> 00:31:57,450
 Cleared visual approach Runway 24.
 
 313
-00:31:35,000 --> 00:31:36,700
+00:31:59,990 --> 00:32:01,750
 Request holding instructions.
 
 314
-00:31:39,000 --> 00:31:49,700
+00:32:04,290 --> 00:32:14,790
 Hold over BKM VOR at FL100, inbound track 280 degrees, left hand pattern, outbound time 1 minute.
 
 315
-00:31:52,000 --> 00:31:53,700
+00:32:17,330 --> 00:32:19,130
 Request holding procedure.
 
 316
-00:31:56,000 --> 00:32:11,700
+00:32:21,670 --> 00:32:36,790
 Hold on the 265 radial of BKM VOR between 25 and 30 miles DME, FL100, inbound track 085, right hand pattern, expected approach time 1022.
 
 317
-00:32:14,000 --> 00:32:26,700
+00:32:39,330 --> 00:32:51,780
 Hold at 20 DME of ST VOR, FL100, inbound track 260 degrees, left turns, limiting outbounddistance 24 DME.
 
 318
-00:32:29,000 --> 00:32:33,700
+00:32:54,320 --> 00:32:59,240
 Overhead YV, maintaining 3000 feet, entering hold.
 
 319
-00:32:36,000 --> 00:32:40,700
+00:33:01,780 --> 00:33:05,760
 Leaving BKM VOR heading 110.
 
 320
-00:32:43,000 --> 00:32:50,700
+00:33:08,300 --> 00:33:15,710
 Leaving FL60, descending to 2500 feet, QNH1008.
 
 321
-00:32:53,000 --> 00:32:56,700
+00:33:18,250 --> 00:33:21,780
 Position 10 miles north east of LN.
 
 322
-00:32:59,000 --> 00:33:01,700
+00:33:24,320 --> 00:33:27,230
 Turn right heading 180 for base leg.
 
 323
-00:33:04,000 --> 00:33:11,700
+00:33:29,770 --> 00:33:37,010
 Reduce to minimum approach speed, turn right heading 230, cleared for ILS approach Runway 27.
 
 324
-00:33:14,000 --> 00:33:18,700
+00:33:39,550 --> 00:33:44,550
 No ATC speed restrictions. Contact Tower 118.9.
 
 325
-00:33:21,000 --> 00:33:23,700
+00:33:47,090 --> 00:33:49,220
 Three sixty turn left for delay.
 
 326
-00:33:26,000 --> 00:33:29,700
+00:33:51,760 --> 00:33:55,410
 Continue present heading, expect through the localizer for spacing.
 
 327
-00:33:32,000 --> 00:33:36,700
+00:33:57,950 --> 00:34:02,690
 Surveillance radar approach Runway 27, maintaining 2200 feet.
 
 328
-00:33:39,000 --> 00:33:44,700
+00:34:05,230 --> 00:34:10,890
 QNH1003, threshold elevation 196 feet.
 
 329
-00:33:47,000 --> 00:33:55,700
+00:34:13,430 --> 00:34:22,210
 Precision radar approach Runway 27 heading 260, descending to 2500 feet, QNH1014.
 
 330
-00:33:58,000 --> 00:34:01,700
+00:34:24,750 --> 00:34:28,150
 Cleared to JEMMY via BK-1A Arrival.
 
 331
-00:34:04,000 --> 00:34:08,700
+00:34:30,690 --> 00:34:34,620
 Descend to reach 5000 feet by BK.
 
 332
-00:34:11,000 --> 00:34:17,700
+00:34:37,160 --> 00:34:43,650
 When ready, descend to FL200. Report leaving FL300.
 
 333
-00:34:20,000 --> 00:34:23,700
+00:34:46,190 --> 00:34:49,620
 Descend immediately FL250.
 
 334
-00:34:26,000 --> 00:34:30,700
+00:34:52,160 --> 00:34:56,980
 Descend to altitude 12000 feet QNH 1000.
 
 335
-00:34:33,000 --> 00:34:38,700
+00:34:59,520 --> 00:35:04,830
 Descend to height 2000 feet QFE 997 hectopascals.
 
 336
-00:34:41,000 --> 00:34:44,700
+00:35:07,370 --> 00:35:11,430
 Descend to 8000 feet at 1000 feet per minute or greater.
 
 337
-00:34:47,000 --> 00:34:51,700
+00:35:13,970 --> 00:35:18,580
 Maintain own separation and VMC, descend to FL50.
 
 338
-00:34:54,000 --> 00:34:55,700
+00:35:21,120 --> 00:35:22,940
 Increasing rate of climb.
 
 339
-00:34:58,000 --> 00:35:01,700
+00:35:25,480 --> 00:35:28,010
 Unable expedite climb due weight.
 
 340
-00:35:04,000 --> 00:35:07,700
+00:35:30,550 --> 00:35:34,910
 Climb to 6000 feet, follow KODAP-01 Departure.
 
 341
-00:35:10,000 --> 00:35:14,700
+00:35:37,450 --> 00:35:42,080
 Passing altitude 2300 feet, climbing to FL80.
 
 342
-00:35:17,000 --> 00:35:23,700
+00:35:44,620 --> 00:35:50,350
 Climb to FL210, level restrictions of KODAP-01 Departure canceled.
 
 343
-00:35:26,000 --> 00:35:31,700
+00:35:52,890 --> 00:35:58,970
 Climb to FL 210, cross AU at FL100 or below.
 
 344
-00:35:34,000 --> 00:35:38,700
+00:36:01,510 --> 00:36:05,510
 Climb to FL290, level at time 55.
 
 345
-00:35:41,000 --> 00:35:45,700
+00:36:08,050 --> 00:36:13,230
 Unable FL390 by boundary, request FL330.
 
 346
-00:35:48,000 --> 00:35:54,700
+00:36:15,770 --> 00:36:21,820
 Descend to FL100, cross YU FL150 or above.
 
 347
-00:35:57,000 --> 00:36:00,700
+00:36:24,360 --> 00:36:28,340
 After passing North Cross, descend to FL150.
 
 348
-00:36:03,000 --> 00:36:06,700
+00:36:30,880 --> 00:36:33,910
 We are far above profile. Request holding.
 
 349
-00:36:09,000 --> 00:36:11,700
+00:36:36,450 --> 00:36:38,950
 Stop descent at 5000 feet.
 
 350
-00:36:14,000 --> 00:36:16,700
+00:36:41,490 --> 00:36:44,800
 Expedite descent until passing FL80.
 
 351
-00:36:19,000 --> 00:36:22,700
+00:36:47,340 --> 00:36:49,950
 Expect descent after AK.
 
 352
-00:36:25,000 --> 00:36:30,700
+00:36:52,490 --> 00:36:58,210
 Continue approach Runway 36R, maintain visual separation with preceding traffic.
 
 353
-00:36:33,000 --> 00:36:35,700
+00:37:00,750 --> 00:37:03,790
 Contact Control 80 miles after BK.
 
 354
-00:36:38,000 --> 00:36:40,700
+00:37:06,330 --> 00:37:08,620
 Request change to London Control.
 
 355
-00:36:43,000 --> 00:36:45,700
+00:37:11,160 --> 00:37:13,920
 Monitor Tower 118.1.
 
 356
-00:36:48,000 --> 00:36:49,700
+00:37:16,460 --> 00:37:18,320
 Remain this frequency.
 
 357
-00:36:52,000 --> 00:36:55,700
+00:37:20,860 --> 00:37:23,680
 We can see the approach lights at 200 feet.
 
 358
-00:36:58,000 --> 00:37:02,700
+00:37:26,220 --> 00:37:31,290
 Cleared VOR approach Runway 36, followed by circling to Runway 18.
 
 359
-00:37:05,000 --> 00:37:08,700
+00:37:33,830 --> 00:37:36,750
 Expect commencing approach at time 50.
 
 360
-00:37:11,000 --> 00:37:14,700
+00:37:39,290 --> 00:37:43,280
 Unable circling approach due company policy. Request diversion.
 
 361
-00:37:17,000 --> 00:37:19,700
+00:37:45,820 --> 00:37:47,720
 Request RNAV approach.
 
 362
-00:37:22,000 --> 00:37:27,700
+00:37:50,260 --> 00:37:55,960
 RNAV approach not available due FMS database. Request VOR approach.
 
 363
-00:37:30,000 --> 00:37:32,700
+00:37:58,500 --> 00:38:01,310
 Cleared for LDA approach Runway 24.
 
 364
-00:37:35,000 --> 00:37:38,700
+00:38:03,850 --> 00:38:07,600
 Unable RNAV due equipment, request conventional arrival.
 
 365
-00:37:41,000 --> 00:37:45,700
+00:38:10,140 --> 00:38:14,560
 Unable RNAV, loss of RAIM, request NDB approach.
 
 366
-00:37:48,000 --> 00:37:50,700
+00:38:17,100 --> 00:38:20,040
 GPS primary lost, going around.
 
 367
-00:37:53,000 --> 00:37:55,700
+00:38:22,580 --> 00:38:24,700
 RAIM alert, going around.
 
 368
-00:37:58,000 --> 00:37:59,700
+00:38:27,240 --> 00:38:28,980
 Negative RNAV.
 
 369
-00:38:02,000 --> 00:38:07,700
+00:38:31,520 --> 00:38:36,560
 Proceed to AK, hold as published, expect approach clearance at 30.
 
 370
-00:38:10,000 --> 00:38:13,700
+00:38:39,100 --> 00:38:42,960
 Request hold for weather improvement, visibility below company minima.
 
 371
-00:38:16,000 --> 00:38:26,700
+00:38:45,500 --> 00:38:56,100
 Hold at BKM VOR FL250, right hand pattern, expect further clearance at 23, landing delay at destination airport 30 minutes.
 
 372
-00:38:29,000 --> 00:38:35,700
+00:38:58,640 --> 00:39:04,930
 Holding northwest of W VOR FL120, what is the delay for approach?
 
 373
-00:38:38,000 --> 00:38:41,700
+00:39:07,470 --> 00:39:10,810
 Request to extend the holding pattern for accomplishing the checklist.
 
 374
-00:38:44,000 --> 00:38:47,700
+00:39:13,350 --> 00:39:16,740
 Request extended holding to burn fuel to reduce the weight.
 
 375
-00:38:50,000 --> 00:38:53,700
+00:39:19,280 --> 00:39:23,070
 Cleared for CAT II ILS approach Runway 24.
 
 376
-00:38:56,000 --> 00:38:59,700
+00:39:25,610 --> 00:39:29,650
 Join right hand downwind, visual approach Runway 24.
 
 377
-00:39:02,000 --> 00:39:05,700
+00:39:32,190 --> 00:39:35,150
 Continue approach, prepare for possible go around.
 
 378
-00:39:08,000 --> 00:39:10,700
+00:39:37,690 --> 00:39:40,420
 Disregard. We made the wrong transmission.
 
 379
-00:39:13,000 --> 00:39:15,700
+00:39:42,960 --> 00:39:45,570
 Roger, request continue approach.
 
 380
-00:39:18,000 --> 00:39:20,700
+00:39:48,110 --> 00:39:51,030
 Stand by. We are carrying out procedures.
 
 381
-00:39:23,000 --> 00:39:25,700
+00:39:53,570 --> 00:39:55,770
 Wilco, words twice.
 
 382
-00:39:28,000 --> 00:39:34,700
+00:39:58,310 --> 00:40:04,310
 Maintaining FL350, expect descent after BKM VOR.
 
 383
-00:39:37,000 --> 00:39:44,700
+00:40:06,850 --> 00:40:14,780
 Climb to and maintain FL310. Maintain Mach number decimal 81 or greater until BKM VOR.
 
 384
-00:39:47,000 --> 00:39:52,700
+00:40:17,320 --> 00:40:23,260
 Descend to and maintain FL 270. Do not exceed Mach number decimal 79.
 
 385
-00:39:55,000 --> 00:40:02,700
+00:40:25,800 --> 00:40:33,430
 Continue climb to FL 290, cross BKM VOR not above FL 230.
 
 386
-00:40:05,000 --> 00:40:13,700
+00:40:35,970 --> 00:40:43,920
 Negative, unable cross BKM VOR at or above FL230 due performance.
 
 387
-00:40:16,000 --> 00:40:18,700
+00:40:46,460 --> 00:40:49,530
 Maintaining FL310 until advised.
 
 388
-00:40:21,000 --> 00:40:28,700
+00:40:52,070 --> 00:40:59,320
 Descend to FL170, cross BKM VOR at or above FL210.
 
 389
-00:40:31,000 --> 00:40:37,700
+00:41:01,860 --> 00:41:08,050
 Affirm, cross BKM VOR at or above FL190.
 
 390
-00:40:40,000 --> 00:40:45,700
+00:41:10,590 --> 00:41:16,210
 Negative, unable to cross BKM VOR below FL170.
 
 391
-00:40:48,000 --> 00:40:52,700
+00:41:18,750 --> 00:41:23,820
 Affirm, cross BKM VOR at or before 55.
 
 392
-00:40:55,000 --> 00:41:00,700
+00:41:26,360 --> 00:41:31,680
 Negative, unable to cross BKM VOR at 43 or later.
 
 393
-00:41:03,000 --> 00:41:07,700
+00:41:34,220 --> 00:41:38,350
 Request lose time en route due landing delay at destination airport.
 
 394
-00:41:10,000 --> 00:41:12,700
+00:41:40,890 --> 00:41:43,780
 Request lose time en route to finish the checklist.
 
 395
-00:41:15,000 --> 00:41:18,700
+00:41:46,320 --> 00:41:49,770
 Request parallel offset from current track due weather ahead.
 
 396
-00:41:21,000 --> 00:41:25,700
+00:41:52,310 --> 00:41:56,730
 Request parallel offset from current airway for 30 minutes due icing condition.
 
 397
-00:41:28,000 --> 00:41:33,700
+00:41:59,270 --> 00:42:04,610
 Proceed offset 10 miles right of track until abeam BKM VOR.
 
 398
-00:41:36,000 --> 00:41:39,700
+00:42:07,150 --> 00:42:10,850
 Cleared offset 25 miles left of track for 30 minutes.
 
 399
-00:41:42,000 --> 00:41:47,700
+00:42:13,390 --> 00:42:19,360
 Offset canceled, turn right to rejoin the A1 before BKM VOR.
 
 400
-00:41:50,000 --> 00:41:53,700
+00:42:21,900 --> 00:42:24,680
 Clear of weather, request to resume flight route.
 
 401
-00:41:56,000 --> 00:42:04,700
+00:42:27,220 --> 00:42:36,400
 Climb to and maintain FL290, re-cleared to track direct to BKM VOR, the rest unchanged.
 
 402
-00:42:07,000 --> 00:42:11,700
+00:42:38,940 --> 00:42:43,030
 Estimating crossing LV NDB 1123.
 
 403
-00:42:14,000 --> 00:42:22,700
+00:42:45,570 --> 00:42:54,440
 Passing POU at 43, maintaining FL310, estimating MLT at 55, next NLD.
 
 404
-00:42:25,000 --> 00:42:35,700
+00:42:56,980 --> 00:43:07,420
 BKM 47, FL170 descending to FL120, abeam NLD VOR at 55.
 
 405
-00:42:38,000 --> 00:42:41,700
+00:43:09,960 --> 00:43:13,870
 Report 25 miles from BKM VOR.
 
 406
-00:42:44,000 --> 00:42:46,700
+00:43:16,410 --> 00:43:19,080
 Report 34 miles from Top of Descent.
 
 407
-00:42:49,000 --> 00:42:54,700
+00:43:21,620 --> 00:43:26,320
 Report crossing 270 radial BKM VOR.
 
 408
-00:42:57,000 --> 00:43:02,700
+00:43:28,860 --> 00:43:34,880
 Report 28 miles DME 210 radial BKM VOR.
 
 409
-00:43:05,000 --> 00:43:09,700
+00:43:37,420 --> 00:43:42,190
 Climb to FL220, report passing FL170.
 
 410
-00:43:12,000 --> 00:43:15,700
+00:43:44,730 --> 00:43:47,980
 Descending immediately to FL190.
 
 411
-00:43:18,000 --> 00:43:21,700
+00:43:50,520 --> 00:43:54,440
 Leaving FL220 for FL190.
 
 412
-00:43:24,000 --> 00:43:32,700
+00:43:56,980 --> 00:44:05,500
 Request clearance to enter controlled airspace northeast of BKM VOR at FL240 at time 43.
 
 413
-00:43:35,000 --> 00:43:40,700
+00:44:08,040 --> 00:44:12,980
 Remain outside controlled airspace, expect joining clearance at time 55.
 
 414
-00:43:43,000 --> 00:43:45,700
+00:44:15,520 --> 00:44:18,290
 Request to leave controlled airspace by descent.
 
 415
-00:43:48,000 --> 00:43:50,700
+00:44:20,830 --> 00:44:23,450
 Request to leave controlled airspace by climb.
 
 416
-00:43:53,000 --> 00:43:59,700
+00:44:25,990 --> 00:44:32,530
 Descending to 5000 feet QNH 1014, report passing 7000 feet.
 
 417
-00:44:02,000 --> 00:44:05,700
+00:44:35,070 --> 00:44:38,260
 Request VMC descent to FL60.
 
 418
-00:44:08,000 --> 00:44:17,700
+00:44:40,800 --> 00:44:50,520
 Descending to FL60, maintain VMC FL90 to FL70, report traffic in sight at FL80.
 
 419
-00:44:20,000 --> 00:44:22,700
+00:44:53,060 --> 00:44:55,970
 Request join airway A1 at DAPRO.
 
 420
-00:44:25,000 --> 00:44:34,700
+00:44:58,510 --> 00:45:07,490
 Cleared to destination airport via DAPRO, flight planned route, FL240, join A1 at FL240.
 
 421
-00:44:37,000 --> 00:44:41,700
+00:45:10,030 --> 00:45:14,420
 Remain outside controlled airspace, expect further clearance at 55.
 
 422
-00:44:44,000 --> 00:44:48,700
+00:45:16,960 --> 00:45:21,720
 If FL240 not available, we accept FL220.
 
 423
-00:44:51,000 --> 00:44:58,700
+00:45:24,260 --> 00:45:32,380
 Cleared to leave A1 via BKM VOR, maintain FL230 while in controlled airspace.
 
 424
-00:45:01,000 --> 00:45:03,700
+00:45:34,920 --> 00:45:37,110
 Confirm we are under radar control.
 
 425
-00:45:06,000 --> 00:45:08,700
+00:45:39,650 --> 00:45:41,890
 Confirm radar service is terminated.
 
 426
-00:45:11,000 --> 00:45:16,700
+00:45:44,430 --> 00:45:50,510
 Radar service is terminated due technical failure. Maintain Mach number decimal 81 or less for separation.
 
 427
-00:45:19,000 --> 00:45:21,700
+00:45:53,050 --> 00:45:55,220
 Confirm radar control is resumed.
 
 428
-00:45:24,000 --> 00:45:31,700
+00:45:57,760 --> 00:46:05,600
 Radar control is resumed, track direct to BKM VOR and increase speed to Mach number decimal 84.
 
 429
-00:45:34,000 --> 00:45:36,700
+00:46:08,140 --> 00:46:10,440
 Affirm RVSM.
 
 430
-00:45:39,000 --> 00:45:42,700
+00:46:12,980 --> 00:46:16,270
 Negative RVSM due equipment downgraded.
 
 431
-00:45:45,000 --> 00:45:47,700
+00:46:18,810 --> 00:46:21,920
 Request clearance into RVSM airspace.
 
 432
-00:45:50,000 --> 00:45:53,700
+00:46:24,460 --> 00:46:27,410
 Unable RVSM due turbulence.
 
 433
-00:45:56,000 --> 00:45:58,700
+00:46:29,950 --> 00:46:32,870
 Ready to resume RVSM.
 
 434
-00:46:01,000 --> 00:46:16,700
+00:46:35,410 --> 00:46:50,920
 Position 42N（North）165E (East) at 0800, FL390, estimating 44 N 180E at 0900 45N 170W next.
 
 435
-00:46:19,000 --> 00:46:27,700
+00:46:53,460 --> 00:47:01,600
 At 150W (west) contact San Francisco Radio, primary 3494, secondary 11342.
 
 436
-00:46:30,000 --> 00:46:33,700
+00:47:04,140 --> 00:47:08,020
 At 144E (east) squawk 2000.
 
 437
-00:46:36,000 --> 00:46:38,700
+00:47:10,560 --> 00:47:13,170
 CPDLC connected.
 
 438
-00:46:41,000 --> 00:46:45,700
+00:47:15,710 --> 00:47:20,090
 Continue CPDLC make position report via CPDLC.
 
 439
-00:46:48,000 --> 00:46:52,700
+00:47:22,630 --> 00:47:27,140
 SELCAL CODE EFFG, request SELCAL check.
 
 440
-00:46:55,000 --> 00:46:59,700
+00:47:29,680 --> 00:47:34,390
 CPDLC unserviceable, request to revert to voice communication.
 
 441
-00:47:02,000 --> 00:47:04,700
+00:47:36,930 --> 00:47:39,420
 The air conditioning system has malfunctioned.
 
 442
-00:47:07,000 --> 00:47:13,700
+00:47:41,960 --> 00:47:48,220
 We have only one air conditioning pack operational. Request a new cruising level below FL300.
 
 443
-00:47:16,000 --> 00:47:20,700
+00:47:50,760 --> 00:47:55,660
 All our air conditioning packs have malfunctioned. Request rapid descent to MEA .
 
 444
-00:47:23,000 --> 00:47:27,700
+00:47:58,200 --> 00:48:02,640
 We had a malfunction of one air conditioning pack. Request descent to a lower level.
 
 445
-00:47:30,000 --> 00:47:36,700
+00:48:05,180 --> 00:48:11,110
 We have lost electrical power to the cabin air compressor. Request immediate descent to 10,000 feet.
 
 446
-00:47:39,000 --> 00:47:45,700
+00:48:13,650 --> 00:48:20,820
 We just had a smoke emergency. We need to depressurize the airplane to let in fresh air. Request rapid descent to 8000 feet.
 
 447
-00:47:48,000 --> 00:47:53,700
+00:48:23,360 --> 00:48:28,850
 We have unusual smell from air conditioning packs. Request stop climb at 7000 feet.
 
 448
-00:47:56,000 --> 00:48:01,700
+00:48:31,390 --> 00:48:36,460
 Many passengers are suffering from smoke inhalation. Request medical assistance on arrival.
 
 449
-00:48:04,000 --> 00:48:06,700
+00:48:39,000 --> 00:48:41,730
 Our pressurization system has malfunctioned.
 
 450
-00:48:09,000 --> 00:48:11,700
+00:48:44,270 --> 00:48:46,970
 We have difficulty in controlling the cabin pressure.
 
 451
-00:48:14,000 --> 00:48:16,700
+00:48:49,510 --> 00:48:51,710
 We have a cabin altitude problem.
 
 452
-00:48:19,000 --> 00:48:22,700
+00:48:54,250 --> 00:48:58,060
 Our cabin rate of climb has red-lined. Request immediate descent.
 
 453
-00:48:25,000 --> 00:48:28,700
+00:49:00,600 --> 00:49:04,370
 We have a slow cabin decompression. Request immediate descent.
 
 454
-00:48:31,000 --> 00:48:37,700
+00:49:06,910 --> 00:49:13,380
 Our cabin altitude at one time had reached 16000 feet. Some passengers have symptoms of hypoxia.
 
 455
-00:48:40,000 --> 00:48:43,700
+00:49:15,920 --> 00:49:19,870
 We are now depressurized and will fly a more shallow descent profile.
 
 456
-00:48:46,000 --> 00:48:51,700
+00:49:22,410 --> 00:49:27,030
 Request descent rate less than 500 feet per minute due to unpressurized cabin.
 
 457
-00:48:54,000 --> 00:48:59,700
+00:49:29,570 --> 00:49:35,750
 We are now ventilating with ram air. It is best that our rate of descent does not exceed 600 feet per minute.
 
 458
-00:49:02,000 --> 00:49:05,700
+00:49:38,290 --> 00:49:41,320
 We have a problem with the avionics ventilation system.
 
 459
-00:49:08,000 --> 00:49:12,700
+00:49:43,860 --> 00:49:49,000
 We have an avionics ventilation problem. The skin heat-exchangers and blower fan have failed.
 
 460
-00:49:15,000 --> 00:49:20,700
+00:49:51,540 --> 00:49:56,910
 The avionics ventilation is unserviceable. Request diversion to the closest suitable airport.
 
 461
-00:49:23,000 --> 00:49:26,700
+00:49:59,450 --> 00:50:03,190
 We have severe vibration coming from the avionics ventilation fan.
 
 462
-00:49:29,000 --> 00:49:32,700
+00:50:05,730 --> 00:50:08,950
 There are unusual noises coming from the avionics bay.
 
 463
-00:49:35,000 --> 00:49:38,700
+00:50:11,490 --> 00:50:14,950
 Our FMS has malfunctioned. Request radar vectors.
 
 464
-00:49:41,000 --> 00:49:43,700
+00:50:17,490 --> 00:50:19,890
 Request further climb due wind-shear.
 
 465
-00:49:46,000 --> 00:49:50,700
+00:50:22,430 --> 00:50:26,860
 Unable to maintain altitude, request leaving RVSM airspace.
 
 466
-00:49:53,000 --> 00:49:55,700
+00:50:29,400 --> 00:50:32,330
 We cannot make RNP approach due equipment.
 
 467
-00:49:58,000 --> 00:50:02,700
+00:50:34,870 --> 00:50:39,450
 Our navigation accuracy is low. Request to climb to minimum safe altitude.
 
 468
-00:50:05,000 --> 00:50:10,700
+00:50:41,990 --> 00:50:47,540
 We have a navigation map shift, unable to perform the RNAV approach. Request radar vectors.
 
 469
-00:50:13,000 --> 00:50:18,700
+00:50:50,080 --> 00:50:55,950
 Inertial reference system has failed. We are navigating on raw data. Request conventional approach.
 
 470
-00:50:21,000 --> 00:50:27,700
+00:50:58,490 --> 00:51:04,660
 The Morse code for the VOR is different from the approach chart. Confirm the VOR is fully operational.
 
 471
-00:50:30,000 --> 00:50:35,700
+00:51:07,200 --> 00:51:12,690
 The ILS signal seems to be very unstable. Did any other pilot report a similar situation?
 
 472
-00:50:38,000 --> 00:50:43,700
+00:51:15,230 --> 00:51:21,160
 The approach lights for Runway 36L are a bit different from those shown on the airport diagram.
 
 473
-00:50:46,000 --> 00:50:49,700
+00:51:23,700 --> 00:51:26,490
 The flight path is unstable. Going around.
 
 474
-00:50:52,000 --> 00:50:55,700
+00:51:29,030 --> 00:51:32,600
 We made a missed approach due to unstable ILS signals.
 
 475
-00:50:58,000 --> 00:51:03,700
+00:51:35,140 --> 00:51:41,260
 The ILS signal was unstable. Request approach to another runway or request another type of approach.
 
 476
-00:51:06,000 --> 00:51:11,700
+00:51:43,800 --> 00:51:49,020
 The DME indication is not correct. Confirm the DME is still in service.
 
 477
-00:51:14,000 --> 00:51:17,700
+00:51:51,560 --> 00:51:55,130
 We have lost our flight plan after a flight management computer reset.
 
 478
-00:51:20,000 --> 00:51:24,700
+00:51:57,670 --> 00:52:02,350
 We need a few minutes to reprogram the flight management computers. Request radar vectors.
 
 479
-00:51:27,000 --> 00:51:31,700
+00:52:04,890 --> 00:52:09,580
 We need to reconfigure the flight management computers for approach. Request holding instructions.
 
 480
-00:51:34,000 --> 00:51:39,700
+00:52:12,120 --> 00:52:16,970
 We are now flying with basic navigation due to systems failure. Request radar vectors.
 
 481
-00:51:42,000 --> 00:51:48,700
+00:52:19,510 --> 00:52:26,710
 We have multiple failures on the inertial reference system. We are no longer able to fly oceanic route. Request return for landing.
 
 482
-00:51:51,000 --> 00:51:55,700
+00:52:29,250 --> 00:52:33,680
 We do not meet GPS approach requirement due to flight crew qualifications.
 
 483
-00:51:58,000 --> 00:52:02,700
+00:52:36,220 --> 00:52:40,700
 Our Airline policy does not allow us to perform CAT IIIC approach.
 
 484
-00:52:05,000 --> 00:52:08,700
+00:52:43,240 --> 00:52:46,190
 Our operations manual forbids this procedure.
 
 485
-00:52:11,000 --> 00:52:13,700
+00:52:48,730 --> 00:52:52,070
 Our Aviation Authority does not permit this procedure.
 
 486
-00:52:16,000 --> 00:52:20,700
+00:52:54,610 --> 00:52:58,610
 We are unable to conform to the noise abatement procedure due performance.
 
 487
-00:52:23,000 --> 00:52:27,700
+00:53:01,150 --> 00:53:06,060
 We are not qualified for CAT IIIB approach and auto-land. Request diversion.
 
 488
-00:52:30,000 --> 00:52:35,700
+00:53:08,600 --> 00:53:14,450
 Our VHF number One receiver has failed. We are no longer monitoring 121.5.
 
 489
-00:52:38,000 --> 00:52:42,700
+00:53:16,990 --> 00:53:20,650
 All stations, transmitting blind due to receiver failure.
 
 490
-00:52:45,000 --> 00:52:50,700
+00:53:23,190 --> 00:53:29,240
 All of our VHF transmitters have failed, now transmitting on HF radio. Please respond.
 
 491
-00:52:53,000 --> 00:52:57,700
+00:53:31,780 --> 00:53:36,020
 Our SELCAL has malfunctioned. We will continue monitoring your frequency.
 
 492
-00:53:00,000 --> 00:53:03,700
+00:53:38,560 --> 00:53:42,690
 We are receiving an ELT signal on 121.5.
 
 493
-00:53:06,000 --> 00:53:10,700
+00:53:45,230 --> 00:53:48,910
 We are picking up a broadcast signal on 121.5.
 
 494
-00:53:13,000 --> 00:53:16,700
+00:53:51,450 --> 00:53:55,810
 Our satellite phone is unserviceable. We are unable to call company operations.
 
 495
-00:53:19,000 --> 00:53:23,700
+00:53:58,350 --> 00:54:02,730
 Our data-link has malfunctioned. Request re-release the flight plan by voice.
 
 496
-00:53:26,000 --> 00:53:30,700
+00:54:05,270 --> 00:54:09,360
 Our data-link has malfunctioned. Request ATC clearance by voice.
 
 497
-00:53:33,000 --> 00:53:36,700
+00:54:11,900 --> 00:54:15,810
 My apologies, I wasn’t aware the boom mike was transmitting.
 
 498
-00:53:39,000 --> 00:53:42,700
+00:54:18,350 --> 00:54:21,410
 Sorry for blocking the frequency due microphone jammed.
 
 499
-00:53:45,000 --> 00:53:46,700
+00:54:23,950 --> 00:54:25,760
 We have an electrical failure.
 
 500
-00:53:49,000 --> 00:53:55,700
+00:54:28,300 --> 00:54:34,540
 One of our generators has failed. At present moment, we are still able to continue to our destination.
 
 501
-00:53:58,000 --> 00:54:01,700
+00:54:37,080 --> 00:54:41,070
 Request diversion to the nearest suitable airport due AC BUS failure.
 
 502
-00:54:04,000 --> 00:54:08,700
+00:54:43,610 --> 00:54:47,840
 We are not supplying power to our DC BUS. Request priority landing.
 
 503
-00:54:11,000 --> 00:54:14,700
+00:54:50,380 --> 00:54:54,200
 We have a problem with the aircraft battery. Request priority landing.
 
 504
-00:54:17,000 --> 00:54:21,700
+00:54:56,740 --> 00:55:01,030
 One of our transformers has failed. I’ll let you know if a diversion is required.
 
 505
-00:54:24,000 --> 00:54:29,700
+00:55:03,570 --> 00:55:09,770
 Electrical system has a serious malfunction. Request radar vectors to an airport that’s within 20 minutes off light time.
 
 506
-00:54:32,000 --> 00:54:38,700
+00:55:12,310 --> 00:55:18,210
 We are operating with only the emergency generator. Request track direct to final, Runway 26.
 
 507
-00:54:41,000 --> 00:54:46,700
+00:55:20,750 --> 00:55:26,040
 We are flying with batteries only. Is there any airport available within 25 minutes of flying?
 
 508
-00:54:49,000 --> 00:54:52,700
+00:55:28,580 --> 00:55:33,010
 If there is no airport within 100 miles, we have to make a forced landing.
 
 509
-00:54:55,000 --> 00:55:00,700
+00:55:35,550 --> 00:55:40,180
 We have less than 10 minutes of battery power left. We are preparing for ditching procedure.
 
 510
-00:55:03,000 --> 00:55:09,700
+00:55:42,720 --> 00:55:49,530
 We have switched off most of our electrical systems for smoke procedure. Request vectors for a long final, Runway 15.
 
 511
-00:55:12,000 --> 00:55:17,700
+00:55:52,070 --> 00:55:57,410
 We have cut off the electrical system to the cabin and the onboard fire is under control.
 
 512
-00:55:20,000 --> 00:55:24,700
+00:55:59,950 --> 00:56:04,870
 We had an electrical fire from the galley, now extinguished. Request return to land.
 
 513
-00:55:27,000 --> 00:55:31,700
+00:56:07,410 --> 00:56:11,440
 There was a fire from the avionics bay. Request radar vectors for final.
 
 514
-00:55:34,000 --> 00:55:36,700
+00:56:13,980 --> 00:56:17,160
 We have had a bird strike. Our windshield has cracked.
 
 515
-00:55:39,000 --> 00:55:44,700
+00:56:19,700 --> 00:56:25,140
 The windshield suddenly had electrical arcing. We need to pull the circuit breakers and delay the approach.
 
 516
-00:55:47,000 --> 00:55:53,700
+00:56:27,680 --> 00:56:33,790
 The cockpit side window is not sealed properly. Request reduce to minimum speed and descend to 4000 feet.
 
 517
-00:55:56,000 --> 00:56:01,700
+00:56:36,330 --> 00:56:42,250
 We had to go around due pilot seat moving. We’ll try to reset the circuit breaker before making another approach.
 
 518
-00:56:04,000 --> 00:56:10,700
+00:56:44,790 --> 00:56:51,640
 We have already discharged the engine extinguishers. The fire warning light is still on. Do you have a visual on our left engine?
 
 519
-00:56:13,000 --> 00:56:18,700
+00:56:54,180 --> 00:56:59,650
 We cannot extinguish the engine fire. Request priority landing and emergency services on arrival.
 
 520
-00:56:21,000 --> 00:56:26,700
+00:57:02,190 --> 00:57:07,580
 We have an APU fire warning. Can you verify if there is smoke coming from the back of the plane?
 
 521
-00:56:29,000 --> 00:56:35,700
+00:57:10,120 --> 00:57:16,660
 The APU fire seems to be extinguished. Request fire trucks on standby and stairs vehicle to disembark the passengers.
 
 522
-00:56:38,000 --> 00:56:43,700
+00:57:19,200 --> 00:57:24,460
 The APU is still on fire. We are evacuating. Request emergency services.
 
 523
-00:56:46,000 --> 00:56:52,700
+00:57:27,000 --> 00:57:33,520
 We had a cargo smoke warning. Advise the ground handlers NOT to open our cargo door until the passengers have all disembarked.
 
 524
-00:56:55,000 --> 00:57:00,700
+00:57:36,060 --> 00:57:41,370
 A passenger ignited the lavatory waste bin. Advise the airport police to await our arrival.
 
 525
-00:57:03,000 --> 00:57:10,700
+00:57:43,910 --> 00:57:51,350
 We have smoke coming out of our avionics bay. It is out of control. Request proceed direct to final and cancel all speed restrictions.
 
 526
-00:57:13,000 --> 00:57:17,700
+00:57:53,890 --> 00:57:58,740
 We have smoke coming from our avionics bay. We are evacuating. Request fire trucks.
 
 527
-00:57:20,000 --> 00:57:23,700
+00:58:01,280 --> 00:58:05,490
 We have smoke coming from our avionics bay. We are disembarking the passengers.
 
 528
-00:57:26,000 --> 00:57:30,700
+00:58:08,030 --> 00:58:12,330
 Request descent to 10000 feet to ventilate the aircraft due smoke.
 
 529
-00:57:33,000 --> 00:57:37,700
+00:58:14,870 --> 00:58:19,410
 We had emptied most of our fire extinguishers, but the cabin fire is still on.
 
 530
-00:57:40,000 --> 00:57:42,700
+00:58:21,950 --> 00:58:24,020
 We are having flight control problems.
 
 531
-00:57:45,000 --> 00:57:52,700
+00:58:26,560 --> 00:58:33,930
 Our flight control computers are not functioning well. We are having difficulty maintaining level flight, unable RVSM.
 
 532
-00:57:55,000 --> 00:58:00,700
+00:58:36,470 --> 00:58:42,700
 Our pitch control has malfunctioned. We cannot move the elevators. We are flying the airplane with only trim.
 
 533
-00:58:03,000 --> 00:58:08,700
+00:58:45,240 --> 00:58:49,950
 The aircraft has a tendency to roll to the right. I need additional airspace to maneuver.
 
 534
-00:58:11,000 --> 00:58:16,700
+00:58:52,490 --> 00:58:58,520
 We have finished the checklist but still cannot retract some of the speed brakes. Request the longest runway for landing.
 
 535
-00:58:19,000 --> 00:58:23,700
+00:59:01,060 --> 00:59:05,330
 We cannot fully extend the flaps. Request the longest runway for landing.
 
 536
-00:58:26,000 --> 00:58:31,700
+00:59:07,870 --> 00:59:13,740
 We have asymmetric flaps. Airplane is rolling to the left. Request holding to solve the problem.
 
 537
-00:58:34,000 --> 00:58:38,700
+00:59:16,280 --> 00:59:20,950
 Request high speed approach. Part of our flight control surfaces have separated from the wing.
 
 538
-00:58:41,000 --> 00:58:47,700
+00:59:23,490 --> 00:59:29,740
 Request immediate climb above the minimum safe altitude to perform the checklist due to run-away trim condition.
 
 539
-00:58:50,000 --> 00:58:54,700
+00:59:32,280 --> 00:59:36,780
 Request vectors for long final. We are controlling the airplane with mechanical backup.
 
 540
-00:58:57,000 --> 00:59:02,700
+00:59:39,320 --> 00:59:45,450
 Request return to FL250.We just had an air-upset situation and lost a lot of altitude.
 
 541
-00:59:05,000 --> 00:59:10,700
+00:59:47,990 --> 00:59:53,280
 We have a problem with yaw damping. The aircraft is oscillating severely. Request diversion.
 
 542
-00:59:13,000 --> 00:59:19,700
+00:59:55,820 --> 01:00:01,950
 We have lost electrical power to some of the flight control actuators. Request delay ourdescent to perform checklist.
 
 543
-00:59:22,000 --> 00:59:25,700
+01:00:04,490 --> 01:00:07,850
 Some of our fuel pumps have low pressure. Request descent.
 
 544
-00:59:28,000 --> 00:59:31,700
+01:00:10,390 --> 01:00:14,510
 We have a problem with fuel temperature. Request holding position on the taxiway.
 
 545
-00:59:34,000 --> 00:59:37,700
+01:00:17,050 --> 01:00:20,360
 We are leaking fuel slowly. Request diversion.
 
 546
-00:59:40,000 --> 00:59:47,700
+01:00:22,900 --> 01:00:30,510
 We have a severe fuel leak situation, unable to reach the closest airport. You can expect us to make a forced landing near our present location.
 
 547
-00:59:50,000 --> 00:59:55,700
+01:00:33,050 --> 01:00:38,450
 Our cabin crew reports that we have fuel leak from the right wing. Request diversion to closest suitable airport.
 
 548
-00:59:58,000 --> 01:00:04,700
+01:00:40,990 --> 01:00:47,580
 We have already shut down engine Number One, but it is still leaking fuel near the pylon. Request emergency services.
 
 549
-01:00:07,000 --> 01:00:13,700
+01:00:50,120 --> 01:00:56,880
 The ground crew reports that we are leaking a bit of fuel from the bottom of the right engine nacelle. We are delaying taxi.
 
 550
-01:00:16,000 --> 01:00:21,700
+01:00:59,420 --> 01:01:05,110
 We need to continue to run the engines at our present location for a few minutes, will advise you shortly.
 
 551
-01:00:24,000 --> 01:00:31,700
+01:01:07,650 --> 01:01:15,230
 The ground crew reports that we are leaking a significant amount of fuel from the bottom of Number Three engine. We have just shut it down.
 
 552
-01:00:34,000 --> 01:00:39,700
+01:01:17,770 --> 01:01:22,940
 The fuel leak has stopped. But if a fire starts at any time, I will order an evacuation.
 
 553
-01:00:42,000 --> 01:00:48,700
+01:01:25,480 --> 01:01:32,430
 We have leaked a large amount of fuel onto the apron. Request fire trucks on standby and the stairs vehicle to disembark the passengers.
 
 554
-01:00:51,000 --> 01:00:55,700
+01:01:34,970 --> 01:01:39,000
 We might have a fuel leak near the wing root. Request fire trucks on arrival.
 
 555
-01:00:58,000 --> 01:01:04,700
+01:01:41,540 --> 01:01:47,930
 We have fumes in the cabin, possibly due to a fuel leak. We are anticipating an immediate evacuation after landing.
 
 556
-01:01:07,000 --> 01:01:12,700
+01:01:50,470 --> 01:01:55,860
 We are evacuating. Advise emergency personnel that fuel odors are still present in the cabin.
 
 557
-01:01:15,000 --> 01:01:18,700
+01:01:58,400 --> 01:02:02,710
 We are too heavy for landing. Request fuel-dump at the fuel dumping area.
 
 558
-01:01:21,000 --> 01:01:25,700
+01:02:05,250 --> 01:02:09,030
 Request climb for dumping fuel and vectors to the fuel dump zone.
 
 559
-01:01:28,000 --> 01:01:31,700
+01:02:11,570 --> 01:02:15,570
 We need about 18 minutes to jettison fuel before coming in for the approach.
 
 560
-01:01:34,000 --> 01:01:39,700
+01:02:18,110 --> 01:02:23,960
 We cannot shut off the fuel dump valve. Request radar vectors for short final, Runway 17.
 
 561
-01:01:42,000 --> 01:01:47,700
+01:02:26,500 --> 01:02:31,270
 We are indicating fuel filter clog. Request descent and to maintain high speed.
 
 562
-01:01:50,000 --> 01:01:52,700
+01:02:33,810 --> 01:02:36,720
 Our left engine failed due to fuel starvation.
 
 563
-01:01:55,000 --> 01:02:00,700
+01:02:39,260 --> 01:02:44,710
 We are near the freezing temperature of jet fuel. Request descent to FL 390.
 
 564
-01:02:03,000 --> 01:02:05,700
+01:02:47,250 --> 01:02:50,340
 We suspect there is contamination in our fuel tanks.
 
 565
-01:02:08,000 --> 01:02:11,700
+01:02:52,880 --> 01:02:56,060
 One of our hydraulic systems has exceeded temperature limits.
 
 566
-01:02:14,000 --> 01:02:16,700
+01:02:58,600 --> 01:03:01,150
 We have shut down one of the hydraulic systems.
 
 567
-01:02:19,000 --> 01:02:23,700
+01:03:03,690 --> 01:03:07,650
 The backup hydraulic system is operational but we still want to divert.
 
 568
-01:02:26,000 --> 01:02:31,700
+01:03:10,190 --> 01:03:15,630
 Our hydraulic systems have a malfunction. Request descent to lower levels to extend flaps in advance.
 
 569
-01:02:34,000 --> 01:02:40,700
+01:03:18,170 --> 01:03:24,790
 Our hydraulic fluid is dangerously low, possibly due to a leak. Request descent to lower levels to extend flaps.
 
 570
-01:02:43,000 --> 01:02:46,700
+01:03:27,330 --> 01:03:31,280
 Two of our hydraulic systems have failed. Request immediate diversion.
 
 571
-01:02:49,000 --> 01:02:57,700
+01:03:33,820 --> 01:03:42,710
 Our ram air turbine is not providing any hydraulic pressure. We are still operating on one hydraulic system only. Request diversion to the nearest suitable airport.
 
 572
-01:03:00,000 --> 01:03:04,700
+01:03:45,250 --> 01:03:49,650
 Request the longest runway and vectors for a wide downwind due to hydraulic failure.
 
 573
-01:03:07,000 --> 01:03:11,700
+01:03:52,190 --> 01:03:56,840
 We still have only one hydraulic system. Request the longest runway for landing.
 
 574
-01:03:14,000 --> 01:03:19,700
+01:03:59,380 --> 01:04:04,440
 Our left engine anti-ice system has failed. Request immediate climb to leave the icing area.
 
 575
-01:03:22,000 --> 01:03:27,700
+01:04:06,980 --> 01:04:12,320
 We must descend immediately to exit icing conditions. Our right engine bleed air has failed.
 
 576
-01:03:30,000 --> 01:03:35,700
+01:04:14,860 --> 01:04:20,810
 Both our windshield heating systems have failed. Ice is obstructing our view. Request latest airport weather.
 
 577
-01:03:38,000 --> 01:03:44,700
+01:04:23,350 --> 01:04:29,950
 We had electrical arcing on the windshield and pulled the circuit breakers according to the checklist. Will advise when ready for approach.
 
 578
-01:03:47,000 --> 01:03:53,700
+01:04:32,490 --> 01:04:38,660
 We performed the missed approach because my windshield wiper became inoperative and I could not see very well.
 
 579
-01:03:56,000 --> 01:04:00,700
+01:04:41,200 --> 01:04:45,590
 Our pitot static heating system has failed. We might have an altitude error.
 
 580
-01:04:03,000 --> 01:04:08,700
+01:04:48,130 --> 01:04:54,180
 We made the overshoot because of a stall warning, probably caused by a defective angle of attack probe.
 
 581
-01:04:11,000 --> 01:04:14,700
+01:04:56,720 --> 01:05:00,560
 I had to abort takeoff because I didn’t receive any airspeed indication.
 
 582
-01:04:17,000 --> 01:04:21,700
+01:05:03,100 --> 01:05:07,370
 We have an error in our airspeed. Request to climb to minimum safe altitude.
 
 583
-01:04:24,000 --> 01:04:28,700
+01:05:09,910 --> 01:05:14,710
 We have master warning lights in the cockpit. Request landing at the nearest suitable airport.
 
 584
-01:04:31,000 --> 01:04:35,700
+01:05:17,250 --> 01:05:21,360
 We have a master caution. I will notify you if a diversion is required.
 
 585
-01:04:38,000 --> 01:04:43,700
+01:05:23,900 --> 01:05:29,080
 Some of our instruments are not indicating correctly. Request level off to perform checklist.
 
 586
-01:04:46,000 --> 01:04:51,700
+01:05:31,620 --> 01:05:37,080
 Two of our display units have failed. We are no longer RNP qualified. Request diversion.
 
 587
-01:04:54,000 --> 01:04:56,700
+01:05:39,620 --> 01:05:43,130
 We made the go around due to navigation accuracy downgrade.
 
 588
-01:04:59,000 --> 01:05:02,700
+01:05:45,670 --> 01:05:48,920
 We made the go around due to FMS position error.
 
 589
-01:05:05,000 --> 01:05:08,700
+01:05:51,460 --> 01:05:55,190
 We made the go around due to map drift on our navigation display.
 
 590
-01:05:11,000 --> 01:05:14,700
+01:05:57,730 --> 01:06:00,520
 We made the go around due to GPS error.
 
 591
-01:05:17,000 --> 01:05:19,700
+01:06:03,060 --> 01:06:06,440
 We made the go around due to lateral deviation exceedance.
 
 592
-01:05:22,000 --> 01:05:25,700
+01:06:08,980 --> 01:06:11,740
 We made the go around due to CDU failure.
 
 593
-01:05:28,000 --> 01:05:31,700
+01:06:14,280 --> 01:06:17,980
 We made the go around because we exceeded the vertical deviation limit.
 
 594
-01:05:34,000 --> 01:05:38,700
+01:06:20,520 --> 01:06:24,830
 We no longer have altitude warning. Request leaving RVSM airspace.
 
 595
-01:05:41,000 --> 01:05:47,700
+01:06:27,370 --> 01:06:33,880
 We have autopilot disconnection. We are no longer RVSM qualified. Request leaving RVSM airspace.
 
 596
-01:05:50,000 --> 01:05:53,700
+01:06:36,420 --> 01:06:40,400
 Our landing capability has degraded. Request terminate our approach.
 
 597
-01:05:56,000 --> 01:06:00,700
+01:06:42,940 --> 01:06:47,810
 Request to climb to minimum safe altitude due to malfunction of navigation computers.
 
 598
-01:06:03,000 --> 01:06:06,700
+01:06:50,350 --> 01:06:53,860
 We performed the go-around because we had a ground proximity warning.
 
 599
-01:06:09,000 --> 01:06:16,700
+01:06:56,400 --> 01:07:03,610
 We have conflicting traffic at one o’clock, 6 miles, descending. Request heading 130 for avoidance.
 
 600
-01:06:19,000 --> 01:06:25,700
+01:07:06,150 --> 01:07:12,560
 We have conflicting traffic at eleven o’clock, 8 miles, climbing. Request vectors for avoidance.
 
 601
-01:06:28,000 --> 01:06:33,700
+01:07:15,100 --> 01:07:20,780
 Traffic at our twelve o’clock, 10 miles, climbing. Should we expedite our descent to cross altitudes?
 
 602
-01:06:36,000 --> 01:06:38,700
+01:07:23,320 --> 01:07:25,750
 Unable, TCAS RA.
 
 603
-01:06:41,000 --> 01:06:44,700
+01:07:28,290 --> 01:07:31,530
 We are clear of conflict. Request further instructions.
 
 604
-01:06:47,000 --> 01:06:53,700
+01:07:34,070 --> 01:07:41,000
 About twenty passengers and crew members were injured during the TCAS maneuver. Request diversion and medical assistance on arrival.
 
 605
-01:06:56,000 --> 01:07:01,700
+01:07:43,540 --> 01:07:48,690
 We are having abnormal engine indications. Request to reduce speed to 250 knots.
 
 606
-01:07:04,000 --> 01:07:08,700
+01:07:51,230 --> 01:07:56,180
 Our engine parameters are unstable. Request stop climb at FL220.
 
 607
-01:07:11,000 --> 01:07:15,700
+01:07:58,720 --> 01:08:03,190
 Our oil pressure reading is lower than normal. Request hold at present position.
 
 608
-01:07:18,000 --> 01:07:22,700
+01:08:05,730 --> 01:08:10,300
 The oil temperature is higher than normal. We are monitoring other engine parameters.
 
 609
-01:07:25,000 --> 01:07:31,700
+01:08:12,840 --> 01:08:19,720
 Engine indicates high EGT at idle power setting. We need to have partial thrust in the descent. Request an early descent.
 
 610
-01:07:34,000 --> 01:07:38,700
+01:08:22,260 --> 01:08:26,050
 We are reading high engine vibration. Request to delay takeoff.
 
 611
-01:07:41,000 --> 01:07:44,700
+01:08:28,590 --> 01:08:32,270
 Cabin altitude is increasing abnormally. Request to level off.
 
 612
-01:07:47,000 --> 01:07:50,700
+01:08:34,810 --> 01:08:38,260
 Our instruments indicate excessive high cabin altitude.
 
 613
-01:07:53,000 --> 01:07:56,700
+01:08:40,800 --> 01:08:44,220
 Our instrument indicates abnormal cabin pressure differential.
 
 614
-01:07:59,000 --> 01:08:04,700
+01:08:46,760 --> 01:08:52,530
 Our fuel endurance is 48 minutes. We must leave the hold otherwise we will be at minimum fuel.
 
 615
-01:08:07,000 --> 01:08:10,700
+01:08:55,070 --> 01:08:59,080
 Cockpit oxygen cylinder pressure is low. Request to return for landing.
 
 616
-01:08:13,000 --> 01:08:17,700
+01:09:01,620 --> 01:09:06,160
 We are holding at present position. It appears one of the over-wing exits has unlocked.
 
 617
-01:08:20,000 --> 01:08:28,700
+01:09:08,700 --> 01:09:16,490
 It seems some of the spoilers cannot be retracted. We have to recalculate our landing distance before we start our approach, standby.
 
 618
-01:08:31,000 --> 01:08:35,700
+01:09:19,030 --> 01:09:24,550
 We have an indication that the nose wheel did not extend properly. Request low pass for visual check
 
 619
-01:08:38,000 --> 01:08:45,700
+01:09:27,090 --> 01:09:33,840
 We have lost our braking. We used thrust reversers to stop the aircraft. Request ground services to chock the nose wheel.
 
 620
-01:08:48,000 --> 01:08:53,700
+01:09:36,380 --> 01:09:42,060
 Our brakes have seized. The tyres might burst during touchdown. Request fire trucks on arrival.
 
 621
-01:08:56,000 --> 01:09:01,700
+01:09:44,600 --> 01:09:50,260
 We made the go-around because our landing gear wouldn't extend normally. Request holding pattern to perform checklist.
 
 622
-01:09:04,000 --> 01:09:08,700
+01:09:52,800 --> 01:09:57,430
 We have exhausted all options. We will land without the nose gear fully locked.
 
 623
-01:09:11,000 --> 01:09:14,700
+01:09:59,970 --> 01:10:03,730
 We cannot extend the left landing gear. Request foaming the runway.
 
 624
-01:09:17,000 --> 01:09:20,700
+01:10:06,270 --> 01:10:09,840
 Request diversion to a nearby airport with foaming capability.
 
 625
-01:09:23,000 --> 01:09:29,700
+01:10:12,380 --> 01:10:18,460
 We applied maximum braking when we rejected takeoff. Request fire services to escort the aircraft back to the apron.
 
 626
-01:09:32,000 --> 01:09:36,700
+01:10:21,000 --> 01:10:25,630
 The tyres are deflated. We will have to hold at present position for maintenance inspection.
 
 627
-01:09:39,000 --> 01:09:42,700
+01:10:28,170 --> 01:10:31,720
 I think we blew a nose wheel tyre. Request holding position.
 
 628
-01:09:45,000 --> 01:09:48,700
+01:10:34,260 --> 01:10:37,880
 We no longer have airspeed and altitude on our primary displays.
 
 629
-01:09:51,000 --> 01:09:54,700
+01:10:40,420 --> 01:10:43,880
 We have errors with our navigation. Request radar monitoring.
 
 630
-01:09:57,000 --> 01:10:03,700
+01:10:46,420 --> 01:10:53,590
 Our inertial reference system has failed, unable GPS approach. Request ILS or VOR approach.
 
 631
-01:10:06,000 --> 01:10:10,700
+01:10:56,130 --> 01:10:59,690
 We made the go around because the GPWS warning was triggered.
 
 632
-01:10:13,000 --> 01:10:16,700
+01:11:02,230 --> 01:11:06,550
 We have to recalibrate our instruments. Request to level off and maintain heading.
 
 633
-01:10:19,000 --> 01:10:25,700
+01:11:09,090 --> 01:11:15,160
 Our ADS-B transmitter appears to be malfunctioning. Terminating further ADS-B transmissions.
 
 634
-01:10:28,000 --> 01:10:32,700
+01:11:17,700 --> 01:11:22,190
 ADS-B equipment degradation, will advise when able to resume operations.
 
 635
-01:10:35,000 --> 01:10:39,700
+01:11:24,730 --> 01:11:29,150
 GPS unreliable, terminating ADS-B transmissions.
 
 636
-01:10:42,000 --> 01:10:46,700
+01:11:31,690 --> 01:11:36,270
 Our ADS-B has malfunctioned. Is there any weather advisory at our destination?
 
 637
-01:10:49,000 --> 01:10:53,700
+01:11:38,810 --> 01:11:43,260
 We made an overshoot because our ADS-B indicated a possible runway incursion.
 
 638
-01:10:56,000 --> 01:11:00,700
+01:11:45,800 --> 01:11:50,550
 We made a go-around due to head-up display problem. We’ll inform you when we are ready for the approach.
 
 639
-01:11:03,000 --> 01:11:07,700
+01:11:53,090 --> 01:11:58,170
 Our airspeed is unreliable. Request climb to minimum safe altitude to perform checklist.
 
 640
-01:11:10,000 --> 01:11:14,700
+01:12:00,710 --> 01:12:04,570
 Our airspeed is unreliable. Request radar vectors for long final.
 
 641
-01:11:17,000 --> 01:11:20,700
+01:12:07,110 --> 01:12:10,860
 We made the go-around because the radio altimeter triggered flare mode.
 
 642
-01:11:23,000 --> 01:11:27,700
+01:12:13,400 --> 01:12:18,120
 Our weather radar has failed and we are in IMC. Request return for landing.
 
 643
-01:11:30,000 --> 01:11:34,700
+01:12:20,660 --> 01:12:25,050
 Our weather radar has malfunctioned. What is the highest available level for cruise?
 
 644
-01:11:37,000 --> 01:11:41,700
+01:12:27,590 --> 01:12:32,230
 Our weather radar has failed. How did the preceding aircraft deviate from the weather?
 
 645
-01:11:44,000 --> 01:11:48,700
+01:12:34,770 --> 01:12:39,020
 We do not have that route in our database. Which heading should we maintain for now？
 
 646
-01:11:51,000 --> 01:11:56,700
+01:12:41,560 --> 01:12:46,890
 We do not have that runway in our database. Request delay our descent while we program the CDU.
 
 647
-01:11:59,000 --> 01:12:04,700
+01:12:49,430 --> 01:12:54,940
 We have a navigation malfunction. Request diversion to a suitable airport that has less complex terrain.
 
 648
-01:12:07,000 --> 01:12:16,700
+01:12:57,480 --> 01:13:07,010
 Our oxygen pressure is dropping rapidly. Request to fly heading 050 and descent to FL180 to escape from the mountainous area.
 
 649
-01:12:19,000 --> 01:12:26,700
+01:13:09,550 --> 01:13:17,210
 The NOTAM says the ILS is unserviceable, but we are still picking up the Morse Code, confirm it is still in operation.
 
 650
-01:12:29,000 --> 01:12:38,700
+01:13:19,750 --> 01:13:29,380
 We have an engine failure. Following ETOPS procedure, request descent to FL200, maintain high speed and proceed direct to alternate airport.
 
 651
-01:12:41,000 --> 01:12:46,700
+01:13:31,920 --> 01:13:37,300
 We cannot provide oxygen to the passengers as we are not sure where the smoke is coming from.
 
 652
-01:12:49,000 --> 01:12:53,700
+01:13:39,840 --> 01:13:44,290
 Many passengers have suffered from smoke inhalation. Request medical services.
 
 653
-01:12:56,000 --> 01:13:01,700
+01:13:46,830 --> 01:13:53,170
 There was heavy smoke in the cabin before we ventilated the aircraft. Request medical assistance for passengers after landing.
 
 654
-01:13:04,000 --> 01:13:11,700
+01:13:55,710 --> 01:14:03,040
 The aircraft is depressurized. We are descending. Confirm 10,000 feet is enough to clear terrain until we reach our alternate.
 
 655
-01:13:14,000 --> 01:13:19,700
+01:14:05,580 --> 01:14:10,850
 We are no longer getting bleed air from the right engine. Request immediate descent to leave the icing area.
 
 656
-01:13:22,000 --> 01:13:27,700
+01:14:13,390 --> 01:14:19,250
 Our APU bleed air malfunctioned during engine startup. We are calling the ground staff,standby.
 
 657
-01:13:30,000 --> 01:13:34,700
+01:14:21,790 --> 01:14:26,380
 We are expediting descent to enable a windmill startup. Request further descent.
 
 658
-01:13:37,000 --> 01:13:42,700
+01:14:28,920 --> 01:14:34,410
 We are unable to restart engine number one with bleed air. Request high speed for a windmill air start.
 
 659
-01:13:45,000 --> 01:13:54,700
+01:14:36,950 --> 01:14:46,000
 Both engine bleed air systems have failed and we are relying on APU bleed for air conditioning. Request descent to 14, 000 feet.
 
 660
-01:13:57,000 --> 01:14:03,700
+01:14:48,540 --> 01:14:54,950
 We have no bleed air coming from either engines or APU. Request rapid descent to 10,000feet.
 
 661
-01:14:06,000 --> 01:14:11,700
+01:14:57,490 --> 01:15:03,300
 We are leaking bleed air. Request turn right heading 095 to avoid the icing area.
 
 662
-01:14:14,000 --> 01:14:18,700
+01:15:05,840 --> 01:15:09,960
 CPDLC has malfunctioned. We are reverting to voice communication.
 
 663
-01:14:21,000 --> 01:14:26,700
+01:15:12,500 --> 01:15:18,750
 Disregard my last CPDLC request for climb. We have a system problem and will maintain present level for now.
 
 664
-01:14:29,000 --> 01:14:34,700
+01:15:21,290 --> 01:15:26,500
 CPDLC terminated due to failure, reverting to voice communication.
 
 665
-01:14:37,000 --> 01:14:45,700
+01:15:29,040 --> 01:15:37,510
 We just had an APU fire warning, and discharged the fire extinguisher, Request visual check if there is smoke coming from our tail section.
 
 666
-01:14:48,000 --> 01:14:54,700
+01:15:40,050 --> 01:15:46,600
 Another aircraft has seen a lot of smoke coming from our APU. We are evacuating. Request emergency services.
 
 667
-01:14:57,000 --> 01:15:01,700
+01:15:49,140 --> 01:15:54,150
 We are at bay15. We have an APU fire. Request fire services.
 
 668
-01:15:04,000 --> 01:15:10,700
+01:15:56,690 --> 01:16:03,210
 We have a generator failure and cannot start our APU at this altitude. Request descent to perform APU startup.
 
 669
-01:15:13,000 --> 01:15:19,700
+01:16:05,750 --> 01:16:12,100
 A passenger has opened an over-wing emergency exit. The slide has deployed. Request to cancel our slot time.
 
 670
-01:15:22,000 --> 01:15:28,700
+01:16:14,640 --> 01:16:21,500
 A passenger tried to unlock the cabin door in flight, the cabin crew restrained him. Request airport police on arrival.
 
 671
-01:15:31,000 --> 01:15:37,700
+01:16:24,040 --> 01:16:29,890
 We have an abnormal noise coming from one of our cabin doors. Request rapid descent to 5000 feet.
 
 672
-01:15:40,000 --> 01:15:45,700
+01:16:32,430 --> 01:16:37,890
 Smoke is coming from the cabin floor. We are performing an evacuation. All slides have been deployed.
 
 673
-01:15:48,000 --> 01:15:51,700
+01:16:40,430 --> 01:16:44,440
 We had a smoke warning from the forward cargo hold. We are evacuating.
 
 674
-01:15:54,000 --> 01:15:59,700
+01:16:46,980 --> 01:16:52,250
 We have a cargo smoke warning. We are disembarking passengers. Request fire services.
 
 675
-01:16:02,000 --> 01:16:07,700
+01:16:54,790 --> 01:17:00,250
 We have smoke coming from our avionics bay. Advise the fire fighters that it might be an electrical fire.
 
 676
-01:16:10,000 --> 01:16:14,700
+01:17:02,790 --> 01:17:07,160
 The cockpit windshield has cracked. Request descent to FL220.
 
 677
-01:16:17,000 --> 01:16:20,700
+01:17:09,700 --> 01:17:13,240
 The windshield is cracked on the outside. Request descent.
 
 678
-01:16:23,000 --> 01:16:26,700
+01:17:15,780 --> 01:17:20,140
 Neither of us can see through our windshield. Does your airport permit auto-land?
 
 679
-01:16:29,000 --> 01:16:35,700
+01:17:22,680 --> 01:17:28,280
 Our thrust lever is not responsive. We cannot reduce thrust on engine Number One. Request holding.
 
 680
-01:16:38,000 --> 01:16:42,700
+01:17:30,820 --> 01:17:36,170
 Our engine control has malfunctioned. We cannot get much thrust. Request immediate descent.
 
 681
-01:16:45,000 --> 01:16:50,700
+01:17:38,710 --> 01:17:44,340
 We have a thrust reverser opened in flight. We cannot maintain this level. Request immediate descent.
 
 682
-01:16:53,000 --> 01:17:00,700
+01:17:46,880 --> 01:17:53,680
 We still cannot retract the thrust reverser. Our approach speed will be higher than normal. Request vectors for the longest Runway.
 
 683
-01:17:03,000 --> 01:17:05,700
+01:17:56,220 --> 01:17:59,220
 We aborted takeoff due loss of engine oil pressure.
 
 684
-01:17:08,000 --> 01:17:11,700
+01:18:01,760 --> 01:18:04,910
 We have an engine oil leak. Request diversion.
 
 685
-01:17:14,000 --> 01:17:17,700
+01:18:07,450 --> 01:18:11,680
 We have a low oil pressure warning from engine Number Two. Request diversion.
 
 686
-01:17:20,000 --> 01:17:24,700
+01:18:14,220 --> 01:18:18,510
 Engine Number One has a temperature problem. Request holding to perform checklist.
 
 687
-01:17:27,000 --> 01:17:34,700
+01:18:21,050 --> 01:18:27,940
 Our EGT continues to be above the maximum limit. Request descent. We might shut down engine Number Two shortly.
 
 688
-01:17:37,000 --> 01:17:41,700
+01:18:30,480 --> 01:18:35,770
 We have performed our procedures but engine vibration still exists. Request diversion.
 
 689
-01:17:44,000 --> 01:17:50,700
+01:18:38,310 --> 01:18:44,040
 The engine vibration is now causing the airplane to shake violently. We are shutting down our engine Number Three.
 
 690
-01:17:53,000 --> 01:17:57,700
+01:18:46,580 --> 01:18:52,040
 We’ve made a visual inspection of engine Number Two from the cabin. The engine cowling has fallen off.
 
 691
-01:18:00,000 --> 01:18:04,700
+01:18:54,580 --> 01:18:59,150
 Engine Number Three has smoke coming out of the pylon section. We are evacuating.
 
 692
-01:18:07,000 --> 01:18:14,700
+01:19:01,690 --> 01:19:08,450
 Ground vehicle has collided with our engine nacelle. Maintenance work is needed before flight. Request cancel our airway clearance.
 
 693
-01:18:17,000 --> 01:18:24,700
+01:19:10,990 --> 01:19:18,390
 The Number Two engine has been shut down. We are no longer able to maintain level flight.Request descent to FL200.
 
 694
-01:18:27,000 --> 01:18:32,700
+01:19:20,930 --> 01:19:26,580
 The uncontained engine failure has caused parts of the fuselage to be damaged. Request emergency descent.
 
 695
-01:18:35,000 --> 01:18:39,700
+01:19:29,120 --> 01:19:34,100
 Our left engine has ingested FOD. We are shutting down engines and holding position.
 
 696
-01:18:42,000 --> 01:18:49,700
+01:19:36,640 --> 01:19:44,610
 There is a huge gaping hole in the aisle, somehow the cabin floor has been punctured. We are re-seating passengers. Request holding.
 
 697
-01:18:52,000 --> 01:19:00,700
+01:19:47,150 --> 01:19:54,730
 We have abnormal noise coming from the mid section of our fuselage, somewhere near the ceiling. Request descent and reduce speed.
 
 698
-01:19:03,000 --> 01:19:06,700
+01:19:57,270 --> 01:20:00,860
 We heard an explosion from the cabin. Request to stop climb.
 
 699
-01:19:09,000 --> 01:19:14,700
+01:20:03,400 --> 01:20:09,530
 We are unsure about the cause of the explosion. There are injuries in the cabin. We’ll give you an update as soon as possible.
 
 700
-01:19:17,000 --> 01:19:24,700
+01:20:12,070 --> 01:20:18,980
 Some passengers have cuts and burn wounds due onboard explosion. Request diversion and medical services upon arrival.
 
 701
-01:19:27,000 --> 01:19:32,700
+01:20:21,520 --> 01:20:27,110
 Ice is accumulating rapidly on the wings and fuselage. Request emergency descent to 6000 feet.
 
 702
-01:19:35,000 --> 01:19:38,700
+01:20:29,650 --> 01:20:33,470
 We are encountering moderate icing. Request immediate descent.
 
 703
-01:19:41,000 --> 01:19:44,700
+01:20:36,010 --> 01:20:40,210
 We made a diversion due to reports of freezing rain at our original destination.
 
 704
-01:19:47,000 --> 01:19:50,700
+01:20:42,750 --> 01:20:45,740
 We are on emergency descent due severe icing.
 
 705
-01:19:53,000 --> 01:19:58,700
+01:20:48,280 --> 01:20:53,340
 We are encountering clear ice. Request immediate right turn to heading 130.
 
 706
-01:20:01,000 --> 01:20:04,700
+01:20:55,880 --> 01:20:59,400
 Rime ice was reported by previous aircraft during approach.
 
 707
-01:20:07,000 --> 01:20:12,700
+01:21:01,940 --> 01:21:07,990
 We cannot continue holding in icing conditions. Request descent immediately and cancel speed restrictions.
 
 708
-01:20:15,000 --> 01:20:20,700
+01:21:10,530 --> 01:21:15,800
 We have a “Wind-shear Ahead” warning message. Request to delay takeoff or change to another runway.
 
 709
-01:20:23,000 --> 01:20:26,700
+01:21:18,340 --> 01:21:22,330
 We have a “Wind-shear Ahead” warning. Request to delay our approach.
 
 710
-01:20:29,000 --> 01:20:31,700
+01:21:24,870 --> 01:21:27,470
 We made the go around due to wind-shear warning.
 
 711
-01:20:34,000 --> 01:20:38,700
+01:21:30,010 --> 01:21:34,470
 We have received information of a new volcanic eruption. Will it affect our route?
 
 712
-01:20:41,000 --> 01:20:45,700
+01:21:37,010 --> 01:21:40,930
 We are unsure of our position due heavy fog. We are holding position.
 
 713
-01:20:48,000 --> 01:20:53,700
+01:21:43,470 --> 01:21:49,420
 We had a rapid airspeed decay due turbulence. Request immediate descent to FL390.
 
 714
-01:20:56,000 --> 01:21:02,700
+01:21:51,960 --> 01:21:58,640
 We had to descend immediately due to wind-shear at our cruise level. We didn’t have time to request descent as the frequency was busy.
 
 715
-01:21:05,000 --> 01:21:11,700
+01:22:01,180 --> 01:22:08,030
 The airplane began to buffet when climbing through FL380. We had to stop climb immediately to increase airspeed.
 
 716
-01:21:14,000 --> 01:21:20,700
+01:22:10,570 --> 01:22:17,040
 We are flying near our maximum altitude. We cannot maintain airspeed in this turbulence.Request immediate descent.
 
 717
-01:21:23,000 --> 01:21:28,700
+01:22:19,580 --> 01:22:24,860
 I apologize for the level bust, but we needed the altitude loss to recover from wind-shear.
 
 718
-01:21:31,000 --> 01:21:36,700
+01:22:27,400 --> 01:22:32,840
 We encountered heavy rain and had a temporary flame out on our right engine. Request immediate climb.
 
 719
-01:21:39,000 --> 01:21:44,700
+01:22:35,380 --> 01:22:40,860
 We won’t have to deviate if you allow us to climb to FL430.
 
 720
-01:21:47,000 --> 01:21:52,700
+01:22:43,400 --> 01:22:48,560
 The thunderstorms will last for about 40 minutes according to the weather update. Request diversion.
 
 721
-01:21:55,000 --> 01:21:59,700
+01:22:51,100 --> 01:22:55,570
 We have encountered severe clear air turbulence. Request immediate descent.
 
 722
-01:22:02,000 --> 01:22:05,700
+01:22:58,110 --> 01:23:02,070
 Request a general heading of 050 due to multiple cells ahead.
 
 723
-01:22:08,000 --> 01:22:15,700
+01:23:04,610 --> 01:23:11,830
 We have stopped on Runway 23 and will remain on the runway due heavy fog. I say again, we are still on the runway.
 
 724
-01:22:18,000 --> 01:22:23,700
+01:23:14,370 --> 01:23:20,420
 There is heavy drifting fog. We think it is no longer safe to taxi. Request to hold at present position.
 
 725
-01:22:26,000 --> 01:22:32,700
+01:23:22,960 --> 01:23:29,160
 Frontal weather is quickly moving in from the west. If the holding is more than 10 minutes, we will have to divert.
 
 726
-01:22:35,000 --> 01:22:39,700
+01:23:31,700 --> 01:23:36,710
 We made the go-around because strong convective currents on short final made our approach unstable.
 
 727
-01:22:42,000 --> 01:22:48,700
+01:23:39,250 --> 01:23:45,510
 There was temperature inversion when we descended through 3000 feet. Our airspeed dropped suddenly by 25 knots.
 
 728
-01:22:51,000 --> 01:22:56,700
+01:23:48,050 --> 01:23:53,820
 We performed the missed approach below the minimum because of advection fog. We could no longer see the runway lights.
 
 729
-01:22:59,000 --> 01:23:05,700
+01:23:56,360 --> 01:24:02,570
 The latest weather says that frontal weather and freezing rain is now stationary over the airport. Request diversion.
 
 730
-01:23:08,000 --> 01:23:15,700
+01:24:05,110 --> 01:24:12,240
 We can’t find any gaps for at least 100 miles in the squall line covering our arrival route.Request diversion.
 
 731
-01:23:18,000 --> 01:23:23,700
+01:24:14,780 --> 01:24:20,410
 We can see dust swirls approaching the airport and we’re concerned about low level wind-shear. Request holding.
 
 732
-01:23:26,000 --> 01:23:31,700
+01:24:22,950 --> 01:24:28,510
 The latest SIGMET says a super-cell thunderstorm is developing at our destination. Is our flight affected?
 
 733
-01:23:34,000 --> 01:23:41,700
+01:24:31,050 --> 01:24:38,980
 Request to continue our flight. Our ETA is in two hours and maybe the airport will have the runways cleared of snow by then.
 
 734
-01:23:44,000 --> 01:23:52,700
+01:24:41,520 --> 01:24:50,520
 We had to make a quick heading change due ice pellets. You didn’t answer our request so we squawked 7700 and made the heading change.
 
 735
-01:23:55,000 --> 01:24:00,700
+01:24:53,060 --> 01:24:58,580
 We were struck by hail. Our airframe is severely damaged. Request emergency services.
 
 736
-01:24:03,000 --> 01:24:10,700
+01:25:01,120 --> 01:25:08,530
 We have just encountered a lightning strike. Some of our instruments have erroneous indications. Request diversion to the nearest suitable airport.
 
 737
-01:24:13,000 --> 01:24:19,700
+01:25:11,070 --> 01:25:17,160
 We have had a lightning strike. So far no system seems to be affected. We will continue to our destination.
 
 738
-01:24:22,000 --> 01:24:25,700
+01:25:19,700 --> 01:25:23,210
 Roger heavy rain. Request to terminate our approach.
 
 739
-01:24:28,000 --> 01:24:32,700
+01:25:25,750 --> 01:25:30,630
 Request to cancel our approach. The runway is not long enough and there are water patches.
 
 740
-01:24:35,000 --> 01:24:40,700
+01:25:33,170 --> 01:25:38,770
 Request to cancel our approach. Braking action is poor and we’re concerned about hydroplaning during rollout.
 
 741
-01:24:43,000 --> 01:24:48,700
+01:25:41,310 --> 01:25:46,200
 Request holding instructions. We’ll attempt another approach when the rain showers become lighter.
 
 742
-01:24:51,000 --> 01:24:56,700
+01:25:48,740 --> 01:25:54,640
 We have received reports of freezing rain ranging from ground up to 5000 feet. Request diversion.
 
 743
-01:24:59,000 --> 01:25:03,700
+01:25:57,180 --> 01:26:02,020
 We have observed blowing sand in the vicinity of the airport. How long will this last?
 
 744
-01:25:06,000 --> 01:25:14,700
+01:26:04,560 --> 01:26:12,490
 A sandstorm is forecast to reach the airport within 20 minutes. We won’t get airborne by then. Request cancel startup and tow back to the gate.
 
 745
-01:25:17,000 --> 01:25:22,700
+01:26:15,030 --> 01:26:21,210
 Heavy blowing snow is expected to last for another 30 minutes. Request to terminate approach and holding instructions.
 
 746
-01:25:25,000 --> 01:25:29,700
+01:26:23,750 --> 01:26:28,220
 Runway is covered with patches of ice. Braking action is medium to poor.
 
 747
-01:25:32,000 --> 01:25:38,700
+01:26:30,760 --> 01:26:37,150
 Ice patches are covering the runway mostly along the runway edge. Uncontaminated runway width is about 30 meters.
 
 748
-01:25:41,000 --> 01:25:48,700
+01:26:39,690 --> 01:26:47,230
 A dissipating thunderstorm is ahead of us. We are near the zero-degree isotherm. Request deviate an additional 10 miles to the right.
 
 749
-01:25:51,000 --> 01:25:57,700
+01:26:49,770 --> 01:26:55,820
 We have a visual on a tornado at our 10 o’clock, about 2 miles. Request immediate right turn.
 
 750
-01:26:00,000 --> 01:26:05,700
+01:26:58,360 --> 01:27:04,000
 The weather forecast says that the typhoon along our route will be intensifying. Request change our airway clearance.
 
 751
-01:26:08,000 --> 01:26:13,700
+01:27:06,540 --> 01:27:12,430
 The hurricane has gathered in strength and will affect all airports at the south coast. Request diversion.
 
 752
-01:26:16,000 --> 01:26:21,700
+01:27:14,970 --> 01:27:20,460
 A Pilot overflying reported seeing virga above the runways. Request to terminate our approach.
 
 753
-01:26:24,000 --> 01:26:27,700
+01:27:23,000 --> 01:27:26,760
 Request immediate one eighty turn to the right due volcanic ash.
 
 754
-01:26:30,000 --> 01:26:41,700
+01:27:29,300 --> 01:27:40,180
 We have entered volcanic ash. Our radios and engines are not working properly, now heading 235, and descending to FL 220, squawking 7700.
 
 755
-01:26:44,000 --> 01:26:48,700
+01:27:42,720 --> 01:27:48,050
 We are landing into the sun in heavy haze. Can you turn on the approach lights to maximum intensity?
 
 756
-01:26:51,000 --> 01:26:56,700
+01:27:50,590 --> 01:27:56,030
 Lining up Runway 35. Runway lights are too bright. Request to dim the runway lights.
 
 757
-01:26:59,000 --> 01:27:02,700
+01:27:58,570 --> 01:28:02,090
 There are red lights ahead of us. Confirm taxi instructions.
 
 758
-01:27:05,000 --> 01:27:08,700
+01:28:04,630 --> 01:28:07,920
 There is an obstruction ahead. Confirm taxi instructions.
 
 759
-01:27:11,000 --> 01:27:16,700
+01:28:10,460 --> 01:28:15,880
 The NOTAM says this part of the taxiway is closed during this period, please verify.
 
 760
-01:27:19,000 --> 01:27:26,700
+01:28:18,420 --> 01:28:25,990
 The follow-me vehicle is leading us to taxiway L3. Our wings will not clear the otherairplanes on this narrow taxiway. We are stopping.
 
 761
-01:27:29,000 --> 01:27:36,700
+01:28:28,530 --> 01:28:35,960
 We are stopping. The ground marshaller is still guiding us in, but I think my engine will hit the boarding bridge if we taxi any further.
 
 762
-01:27:39,000 --> 01:27:43,700
+01:28:38,500 --> 01:28:42,860
 We are stopping taxi. The boarding bridge is not at its designated position.
 
 763
-01:27:46,000 --> 01:27:50,700
+01:28:45,400 --> 01:28:50,190
 We are shutting down our engines. There are boxes blown by the wind toward our aircraft.
 
 764
-01:27:53,000 --> 01:27:58,700
+01:28:52,730 --> 01:28:58,690
 We had difficulty starting up our engines due strong tailwind. Request to change our pushback position facing west.
 
 765
-01:28:01,000 --> 01:28:06,700
+01:29:01,230 --> 01:29:06,680
 Another aircraft has collided with us. I’ll command an evacuation as soon as we both turn off our engines.
 
 766
-01:28:09,000 --> 01:28:14,700
+01:29:09,220 --> 01:29:14,200
 The tow bar has been bent. Our maintenance crew will inspect our nose wheel. Holding position.
 
 767
-01:28:17,000 --> 01:28:23,700
+01:29:16,740 --> 01:29:23,900
 The tug has swung around and collided with our forward fuselage. We are shutting down engines. Request stairs vehicle and shuttle bus.
 
 768
-01:28:26,000 --> 01:28:34,700
+01:29:26,440 --> 01:29:34,490
 A catering truck collided with our aft fuselage. There are fumes in the cabin and we are quickly disembarking all passengers. Request fire services.
 
 769
-01:28:37,000 --> 01:28:43,700
+01:29:37,030 --> 01:29:44,120
 The flaps were extended inadvertently and hit the fuel truck. We are disembarking all onboard personnel. Request fire services.
 
 770
-01:28:46,000 --> 01:28:52,700
+01:29:46,660 --> 01:29:52,650
 Our airplane nose has now lifted off the ground due to improper load and balance. Request ground maintenance.
 
 771
-01:28:55,000 --> 01:29:00,700
+01:29:55,190 --> 01:30:00,930
 We have discovered leakage of dangerous goods in the cargo hold. Can you alert hazardous material specialists?
 
 772
-01:29:03,000 --> 01:29:07,700
+01:30:03,470 --> 01:30:08,280
 Our cabin crew will direct all passengers to stay outside the runway after evacuation.
 
 773
-01:29:10,000 --> 01:29:17,700
+01:30:10,820 --> 01:30:17,830
 The outer main landing gear might have rolled over runway lights when we made the one eighty turn. Request personnel to inspect.
 
 774
-01:29:20,000 --> 01:29:23,700
+01:30:20,370 --> 01:30:24,050
 We have a suspicious bag on board. Request bomb squad.
 
 775
-01:29:26,000 --> 01:29:29,700
+01:30:26,590 --> 01:30:30,180
 The passengers are evacuating. The bomb is still on board.
 
 776
-01:29:32,000 --> 01:29:37,700
+01:30:32,720 --> 01:30:38,560
 A passenger has assembled a bomb in the lavatory. He is making threats. Request emergency services.
 
 777
-01:29:40,000 --> 01:29:43,700
+01:30:41,100 --> 01:30:44,780
 Request a remote apron for parking our aircraft due bomb on board.
 
 778
-01:29:46,000 --> 01:29:51,700
+01:30:47,320 --> 01:30:52,760
 We have had a tail strike. Request to stop climb at 3000 feet and return for landing.
 
 779
-01:29:54,000 --> 01:30:00,700
+01:30:55,300 --> 01:31:01,570
 We have veered off the runway due asymmetric thrust. We are evacuating. Request emergency assistance.
 
 780
-01:30:03,000 --> 01:30:07,700
+01:31:04,110 --> 01:31:08,940
 We cannot get good climb profile due engine problems. Request maintain runway heading.
 
 781
-01:30:10,000 --> 01:30:16,700
+01:31:11,480 --> 01:31:18,260
 We made a very hard landing. We’ll need maintenance inspection before our next flight.Suggest you check the runway touchdown zone.
 
 782
-01:30:19,000 --> 01:30:25,700
+01:31:20,800 --> 01:31:26,680
 The center of gravity is disturbed. We will relocate passengers prior to approach. Request holding.
 
 783
-01:30:28,000 --> 01:30:31,700
+01:31:29,220 --> 01:31:33,070
 Request a large airspace to maneuver due flight control problems.
 
 784
-01:30:34,000 --> 01:30:39,700
+01:31:35,610 --> 01:31:40,600
 My apologies for the deviation due the wrong altitude setting. Request further instructions.
 
 785
-01:30:42,000 --> 01:30:45,700
+01:31:43,140 --> 01:31:47,370
 My apologies for the level deviation. We were caught in a strong updraft.
 
 786
-01:30:48,000 --> 01:30:52,700
+01:31:49,910 --> 01:31:54,540
 We used too much speed brakes and penetrated our level. Did we cause any conflict?
 
 787
-01:30:55,000 --> 01:30:59,700
+01:31:57,080 --> 01:32:01,400
 We were not informed of a frequency change. I will now monitor your frequency.
 
 788
-01:31:02,000 --> 01:31:06,700
+01:32:03,940 --> 01:32:07,890
 Unable visual approach due company policy. Request radar vectors.
 
 789
-01:31:09,000 --> 01:31:12,700
+01:32:10,430 --> 01:32:14,530
 Unable circling approach due company policy. Request diversion.
 
 790
-01:31:15,000 --> 01:31:18,700
+01:32:17,070 --> 01:32:20,050
 Are we being vectored too close to the parallel aircraft?
 
 791
-01:31:21,000 --> 01:31:23,700
+01:32:22,590 --> 01:32:25,230
 Is the preceding aircraft crossing our altitude?
 
 792
-01:31:26,000 --> 01:31:31,700
+01:32:27,770 --> 01:32:33,420
 I can read you, but I’m not sure you can hear me. I will squawk ident to comply with your instructions.
 
 793
-01:31:34,000 --> 01:31:37,700
+01:32:35,960 --> 01:32:39,440
 I see wildfire at my 10 o’clock, about 8 miles.
 
 794
-01:31:40,000 --> 01:31:45,700
+01:32:41,980 --> 01:32:47,420
 I have heard an aircraft in distress but no one’s responding. I can help relay his message.
 
 795
-01:31:48,000 --> 01:31:59,700
+01:32:49,960 --> 01:33:02,330
 Message relay: The aircraft in distress will ditch in the ocean. His present coordinate is One Eight Degrees, One Five Minutes, North, One Six Zero Degrees, Five Two Minutes East.
 
 796
-01:32:02,000 --> 01:32:08,700
+01:33:04,870 --> 01:33:11,460
 The aircraft in distress says he will attempt to force land in an area about ten miles Northeast of his position.
 
 797
-01:32:11,000 --> 01:32:15,700
+01:33:14,000 --> 01:33:18,410
 Request offset 10 miles left to avoid the reported strong downdraft.
 
 798
-01:32:18,000 --> 01:32:24,700
+01:33:20,950 --> 01:33:27,000
 Request diversion. The latest weather at our destination suggests snow storm will last for 5hours.
 
 799
-01:32:27,000 --> 01:32:32,700
+01:33:29,540 --> 01:33:35,030
 Our radar shows a strong echo from the thunderstorm ahead. Request immediate right turn to avoid it.
 
 800
-01:32:35,000 --> 01:32:38,700
+01:33:37,570 --> 01:33:41,510
 Request immediate one-eighty turn to the right due to possible hail ahead.
 
 801
-01:32:41,000 --> 01:32:46,700
+01:33:44,050 --> 01:33:49,250
 We have three serious and five minor injuries on board. Request ambulances on arrival.
 
 802
-01:32:49,000 --> 01:32:54,700
+01:33:51,790 --> 01:33:57,420
 One passenger is having difficulty breathing. Request descent to a lower level to reduce cabin altitude.
 
 803
-01:32:57,000 --> 01:33:03,700
+01:33:59,960 --> 01:34:06,710
 A passenger activated the overhead emergency oxygen generator. Request airport security on arrival to detain this individual.
 
 804
-01:33:06,000 --> 01:33:11,700
+01:34:09,250 --> 01:34:14,690
 A stressed passenger attempted to open an emergency exit. Request airport security on arrival.
 
 805
-01:33:14,000 --> 01:33:18,700
+01:34:17,230 --> 01:34:22,140
 We have a hostage situation. Request stair vehicles on standby to disembark the passengers.
 
 806
-01:33:21,000 --> 01:33:29,700
+01:34:24,680 --> 01:34:32,440
 We have a passenger with severe hyperventilation. He has received first aid but his condition is not improving. Request ambulance on arrival.
 
 807
-01:33:32,000 --> 01:33:36,700
+01:34:34,980 --> 01:34:39,820
 We have a passenger with a suspected heart attack. Request diversion to a suitable airport.
 
 808
-01:33:39,000 --> 01:33:43,700
+01:34:42,360 --> 01:34:47,430
 A pregnant passenger is in severe pain. Request priority landing and ambulance on arrival.
 
 809
-01:33:46,000 --> 01:33:53,700
+01:34:49,970 --> 01:34:57,110
 There was a fight onboard among a few passengers. One of them is now bleeding seriously.Request police and ambulances on arrival.
 
 810
-01:33:56,000 --> 01:34:02,700
+01:34:59,650 --> 01:35:05,770
 The purser told me the injured passenger has blood type O. Maybe this information is useful to the paramedics.
 
 811
-01:34:05,000 --> 01:34:09,700
+01:35:08,310 --> 01:35:12,700
 We have an 8-month old infant with head injuries. Request ambulance on arrival.
 
 812
-01:34:12,000 --> 01:34:18,700
+01:35:15,240 --> 01:35:22,580
 A passenger is unconscious after suffering from seizure. The cabin crew is giving her first aid. We will advise if we require a diversion.
 
 813
-01:34:21,000 --> 01:34:28,700
+01:35:25,120 --> 01:35:31,840
 Many passengers and crew were injured due severe turbulence. We will advise the number and severity of injuries when able.
 
 814
-01:34:31,000 --> 01:34:36,700
+01:35:34,380 --> 01:35:40,180
 An elderly passenger has passed away. We will continue to our destination. Request ambulance on arrival.
 
 815
-01:34:39,000 --> 01:34:44,700
+01:35:42,720 --> 01:35:48,460
 We found a passenger unconscious from a drug overdose in the lavatory. Request police and ambulance on arrival.
 
 816
-01:34:47,000 --> 01:34:53,700
+01:35:51,000 --> 01:35:57,600
 The sick passenger’s condition has improved. We no longer require the diversion. Request to continue to our destination.
 
 817
-01:34:56,000 --> 01:35:04,700
+01:36:00,140 --> 01:36:08,660
 We received an emergency call from the cabin, but now nobody is responding. We can hear shouting and disturbance. Our cabin crew might be under duress.
 
 818
-01:35:07,000 --> 01:35:11,700
+01:36:11,200 --> 01:36:15,910
 We have a hijack situation on board. Can our destination airport provide armed intervention?
 
 819
-01:35:14,000 --> 01:35:20,700
+01:36:18,450 --> 01:36:24,530
 We can see two masked men with sharp weapons on our cockpit door surveillance camera.They are kicking the cockpit door.
 
 820
-01:35:23,000 --> 01:35:27,700
+01:36:27,070 --> 01:36:32,050
 I can see the area outside of the cockpit. There are two hijack suspects standing in the aisle.
 
 821
-01:35:30,000 --> 01:35:37,700
+01:36:34,590 --> 01:36:41,720
 One of the terrorists is about forty-year old. He is about 180 cm tall, wearing a brown shirt and dark pants.
 
 822
-01:35:40,000 --> 01:35:46,700
+01:36:44,260 --> 01:36:50,800
 A terrorist is trying to access the cockpit. He is about 30 years old. He is wearing a hat and backpack.
 
 823
-01:35:49,000 --> 01:35:55,700
+01:36:53,340 --> 01:37:00,250
 The purser reports there are over ten hijackers onboard. They are threatening to kill passengers if we don’t fly to another destination.
 
 824
-01:35:58,000 --> 01:36:01,700
+01:37:02,790 --> 01:37:06,160
 Some of the hijackers are carrying sharp protruding weapons.
 
 825
-01:36:04,000 --> 01:36:08,700
+01:37:08,700 --> 01:37:13,150
 There is a stand-off in the cabin. Some of the hijackers are carrying blades.
 
 826
-01:36:11,000 --> 01:36:13,700
+01:37:15,690 --> 01:37:18,130
 Terrorists started to injure passengers.
 
 827
-01:36:16,000 --> 01:36:20,700
+01:37:20,670 --> 01:37:25,530
 We will remain on the runway. The hijackers have taken four hostages to the rear of the cabin.
 
 828
-01:36:23,000 --> 01:36:26,700
+01:37:28,070 --> 01:37:31,440
 Terrorists are threatening to start killing passengers and the crew.
 
 829
-01:36:29,000 --> 01:36:34,700
+01:37:33,980 --> 01:37:39,230
 The air marshal and passengers have restrained five suspects. The situation is now under control.
 
 830
-01:36:37,000 --> 01:36:39,700
+01:37:41,770 --> 01:37:45,000
 A suspicious suitcase was found during the cabin inspection.
 
 831
-01:36:42,000 --> 01:36:46,700
+01:37:47,540 --> 01:37:51,840
 The air marshal is searching the aircraft interior for any suspicious articles.
 
 832
-01:36:49,000 --> 01:36:52,700
+01:37:54,380 --> 01:37:58,090
 Some explosives were discovered behind a panel near the back of the cabin.
 
 833
-01:36:55,000 --> 01:36:58,700
+01:38:00,630 --> 01:38:03,580
 What do the bomb-disposal experts suggest we do?
 
 834
-01:37:01,000 --> 01:37:03,700
+01:38:06,120 --> 01:38:09,360
 The cabin crew reports a passenger is behaving strangely.
 
 835
-01:37:06,000 --> 01:37:11,700
+01:38:11,900 --> 01:38:16,810
 A bomb has exploded and the cabin is full of smoke. Request emergency descent.
 
 836
-01:37:14,000 --> 01:37:18,700
+01:38:19,350 --> 01:38:23,720
 We are evacuating on the runway. Be advised the bomb is still on board.
 
 837
-01:37:21,000 --> 01:37:26,700
+01:38:26,260 --> 01:38:31,830
 We are unsure of our position due to navigation failure. If any station can hear me, please respond.
 
 838
-01:37:29,000 --> 01:37:35,700
+01:38:34,370 --> 01:38:41,230
 We only have standby magnetic compass due instrument failure. Now heading 245. Request navigation assistance.
 
 839
-01:37:38,000 --> 01:37:46,700
+01:38:43,770 --> 01:38:52,190
 We are unsure of our position due FMS failure. Last known position five miles north of FUPAD, now heading 165 for weather avoidance.
 
 840
-01:37:49,000 --> 01:37:53,700
+01:38:54,730 --> 01:38:59,020
 We have navigation map drift. Request climb to MEA.
 
 841
-01:37:56,000 --> 01:38:00,700
+01:39:01,560 --> 01:39:06,130
 Our cargo manifest shows that there are 80 kilograms of lithium batteries on board.
 
 842
-01:38:03,000 --> 01:38:09,700
+01:39:08,670 --> 01:39:15,200
 A ramp inspection discovered crates of lithium batteries in the cargo hold. We are verifying. Request delay pushback.
 
 843
-01:38:12,000 --> 01:38:18,700
+01:39:17,740 --> 01:39:25,030
 We had a smoke warning in the cargo hold. We have discharged the fire extinguisher. We are concerned about lithium batteries in that compartment.
 
 844
-01:38:21,000 --> 01:38:25,700
+01:39:27,570 --> 01:39:31,660
 The cabin crew have used up all the portable extinguishers. Request diversion.
 
 845
-01:38:28,000 --> 01:38:34,700
+01:39:34,200 --> 01:39:40,720
 Request passenger stairs connect immediately after we stop on the runway. We want to disembark passengers as quickly as possible.
 
 846
-01:38:37,000 --> 01:38:40,700
+01:39:43,260 --> 01:39:46,530
 We almost had a mid-air collision with another aircraft.
 
 847
-01:38:43,000 --> 01:38:46,700
+01:39:49,070 --> 01:39:53,080
 The conflicting traffic is military. Request avoiding action.
 
 848
-01:38:49,000 --> 01:38:52,700
+01:39:55,620 --> 01:39:59,020
 Does the flight path of the unknown aircraft converge with ours?
 
 849
-01:38:55,000 --> 01:38:58,700
+01:40:01,560 --> 01:40:05,580
 The conflicting traffic is gray, possibly a military aircraft.
 
 850
-01:39:01,000 --> 01:39:05,700
+01:40:08,120 --> 01:40:12,640
 We have traffic indication at 2 o’clock, 300 feet above our level.
 
 851
-01:39:08,000 --> 01:39:13,700
+01:40:15,180 --> 01:40:20,340
 We have a possible traffic conflict at 10 o’clock, converging with our flight path.
 
 852
-01:39:16,000 --> 01:39:20,700
+01:40:22,880 --> 01:40:27,310
 We have a possible traffic conflict ahead. Request radar vectors for avoidance.
 
 853
-01:39:23,000 --> 01:39:25,700
+01:40:29,850 --> 01:40:32,420
 Request right turn for traffic avoidance.
 
 854
-01:39:28,000 --> 01:39:30,700
+01:40:34,960 --> 01:40:37,640
 Unable to comply, TCAS RA.
 
 855
-01:39:33,000 --> 01:39:39,700
+01:40:40,180 --> 01:40:46,780
 We nearly collided with that aircraft. We had very little vertical separation. Do you know the flight number of that aircraft?
 
 856
-01:39:42,000 --> 01:39:45,700
+01:40:49,320 --> 01:40:52,330
 Clear of conflict, request further instructions.
 
 857
-01:39:48,000 --> 01:39:52,700
+01:40:54,870 --> 01:40:59,560
 We have injuries resulting from our TCAS maneuver. Request ambulance on arrival.
 
 858
-01:39:55,000 --> 01:39:59,700
+01:41:02,100 --> 01:41:06,630
 Some of the cabin crew are injured. They were serving meals during the TCAS maneuver.
 
 859
-01:40:02,000 --> 01:40:05,700
+01:41:09,170 --> 01:41:12,690
 Some passengers were injured because their seatbelts weren’t fastened.
 
 860
-01:40:08,000 --> 01:40:10,700
+01:41:15,230 --> 01:41:18,150
 Some passengers have been scalded by hot drinks.
 
 861
-01:40:13,000 --> 01:40:20,700
+01:41:20,690 --> 01:41:28,110
 We have about thirty injured persons on board, four are very serious. Can you deliver this message to the medical staff that are standing by?
 
 862
-01:40:23,000 --> 01:40:27,700
+01:41:30,650 --> 01:41:35,490
 We overran the runway end. We are evacuating. Request emergency services.
 
 863
-01:40:30,000 --> 01:40:35,700
+01:41:38,030 --> 01:41:43,270
 We veered off the runway. We are evacuating near the runway and rapid exit J5.
 
 864
-01:40:38,000 --> 01:40:41,700
+01:41:45,810 --> 01:41:49,240
 We will reach our minimum fuel if we are delayed any further.
 
 865
-01:40:44,000 --> 01:40:49,700
+01:41:51,780 --> 01:41:57,500
 We are declaring minimum fuel. We will have less than 30 minutes endurance by the time we get to our destination.
 
 866
-01:40:52,000 --> 01:41:00,700
+01:42:00,040 --> 01:42:08,380
 We are declaring fuel emergency. Our endurance is 1 hour 58 minutes. We are 1 hour 30 minutes from the closest alternate airport.
 
 867
-01:41:03,000 --> 01:41:08,700
+01:42:10,920 --> 01:42:16,130
 We are declaring fuel emergency. Request priority landing Runway 03R.
 
 868
-01:41:11,000 --> 01:41:15,700
+01:42:18,670 --> 01:42:23,840
 We have been intercepted by a military aircraft. It is rocking its wings to indicate we should follow.
 
 869
-01:41:18,000 --> 01:41:26,700
+01:42:26,380 --> 01:42:34,660
 I’m trying to identify the type and nationality of the military aircraft. So far, no response on121.5.
 
 870
-01:41:29,000 --> 01:41:32,700
+01:42:37,200 --> 01:42:41,060
 The military aircraft is commanding us to land at the airfield below.
 
 871
-01:41:35,000 --> 01:41:40,700
+01:42:43,600 --> 01:42:48,680
 The military aircraft has made an abrupt maneuver indicating we may continue on this heading.
 
 872
-01:41:43,000 --> 01:41:46,700
+01:42:51,220 --> 01:42:55,350
 We are being escorted towards the national boundary by two military aircraft.
 
 873
-01:41:49,000 --> 01:41:54,700
+01:42:57,890 --> 01:43:03,180
 We are heading 085. This heading allows us to quickly exit the prohibited airspace.
 
 874
-01:41:57,000 --> 01:42:02,700
+01:43:05,720 --> 01:43:11,150
 If we continue to make orbits we will exceed our duty time limit by the time we land.
 
 875
-01:42:05,000 --> 01:42:09,700
+01:43:13,690 --> 01:43:18,110
 A crew member is incapacitated. Request diversion and medical assistance.
 
 876
-01:42:12,000 --> 01:42:18,700
+01:43:20,650 --> 01:43:27,600
 They have revived the unconscious passenger by CPR procedure. It looks like he’ll be fine.Request to cancel the diversion.
 
 877
-01:42:21,000 --> 01:42:25,700
+01:43:30,140 --> 01:43:34,040
 Confirm we are being vectored to fly overhead the airport for right downwind.
 
 878
-01:42:28,000 --> 01:42:30,700
+01:43:36,580 --> 01:43:39,720
 Confirm we have enough separation from preceding aircraft.
 
 879
-01:42:33,000 --> 01:42:35,700
+01:43:42,260 --> 01:43:44,900
 Unable to expedite climb due performance.
 
 880
-01:42:38,000 --> 01:42:40,700
+01:43:47,440 --> 01:43:49,620
 Negative contact due visibility.
 
 881
-01:42:43,000 --> 01:42:45,700
+01:43:52,160 --> 01:43:54,580
 Unable, we are in IMC.
 
 882
-01:42:48,000 --> 01:42:52,700
+01:43:57,120 --> 01:44:01,710
 Unable, we are only authorized during daytime VMC.
 
 883
-01:42:55,000 --> 01:42:57,700
+01:44:04,250 --> 01:44:06,860
 Unable noise abatement due company policy.
 
 884
-01:43:00,000 --> 01:43:03,700
+01:44:09,400 --> 01:44:13,190
 Did the previous controller tell you about our problem during radar handoff?
 
 885
-01:43:06,000 --> 01:43:09,700
+01:44:15,730 --> 01:44:18,980
 Is there a frequency change at this compulsory reporting point?
 
 886
-01:43:12,000 --> 01:43:17,700
+01:44:21,520 --> 01:44:27,240
 Unable speed 180 knots. We need to maintain a good speed in clean configuration due icing.
 
 887
-01:43:20,000 --> 01:43:24,700
+01:44:29,780 --> 01:44:34,450
 Unable to reduce speed below mach decimal 74. You can vector us if you’d like.
 
 888
-01:43:27,000 --> 01:43:30,700
+01:44:36,990 --> 01:44:40,070
 Request runway change for departure due high crosswind.
 
 889
-01:43:33,000 --> 01:43:36,700
+01:44:42,610 --> 01:44:46,160
 Request delay the approach due tail wind beyond limits.
 
 890
-01:43:39,000 --> 01:43:42,700
+01:44:48,700 --> 01:44:52,020
 Request holding instructions due weather near the runway threshold.
 
 891
-01:43:45,000 --> 01:43:51,700
+01:44:54,560 --> 01:45:01,840
 Unable, an immediate right turn might not give us enough terrain clearance. Our turn radius is 4 miles at this speed.
 
 892
-01:43:54,000 --> 01:43:58,700
+01:45:04,380 --> 01:45:08,900
 Sorry, there was a problem with my audio equipment. How do you read me now?
 
 893
-01:44:01,000 --> 01:44:04,700
+01:45:11,440 --> 01:45:14,460
 We had to overshoot because of wake turbulence.
 
 894
-01:44:07,000 --> 01:44:11,700
+01:45:17,000 --> 01:45:21,680
 Not ready for immediate takeoff due possible wake turbulence from departing heavy aircraft.
 
 895
-01:44:14,000 --> 01:44:17,700
+01:45:24,220 --> 01:45:27,930
 Unable CAT II approach due crew qualification.
 
 896
-01:44:20,000 --> 01:44:22,700
+01:45:30,470 --> 01:45:32,640
 Transmission blocked, say again.
 
 897
-01:44:25,000 --> 01:44:27,700
+01:45:35,180 --> 01:45:37,480
 Standby, high pilot workload.
 
 898
-01:44:30,000 --> 01:44:33,700
+01:45:40,020 --> 01:45:43,730
 Are you banning us from entry because of our airline or our aircraft type?
 
 899
-01:44:36,000 --> 01:44:42,700
+01:45:46,270 --> 01:45:53,120
 Our aircraft has the required certification and is approved by your Civil Aviation Authority for scheduled flight.
 
 900
-01:44:45,000 --> 01:44:51,000
+01:45:55,660 --> 01:46:00,892
 We had to go around due to unstable approach.
