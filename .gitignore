@@ -1,0 +1,20 @@
+# 中间产物与私有数据：一律不入库
+# 逐句 clip、中间 wav、ffmpeg.exe 等（约 4.9 GB）
+.cache/
+# 生成的音频（成品 201 MB，超过 GitHub 单文件 100 MB 上限）
+audio/
+
+__pycache__/
+*.pyc
+
+# 密钥 / 环境变量：绝不入库
+.env
+*.key
+.secrets/
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 本机钩子 / 临时
+logs/
